@@ -27,6 +27,11 @@ E: omnibus.type@gmail.com
 W: http://www.omnibus-type.com
 D: Principle designer of Grenze
 
+N: Oscar Guerrero Cañizares
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Typeface development
+
 N: Pablo Cosgaya
 E: omnibus.type@gmail.com
 W: http://www.omnibus-type.com
