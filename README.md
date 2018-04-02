@@ -5,7 +5,7 @@
 
 Grenze description.
 
-![Sample of Grenze Family.](Sources/_Grenze-01.png "Grenze Family")
+![Sample of Grenze Family.](Sources/Grenze01.png "Grenze Family")
 
 ####Grenze Family contains:
 
