@@ -1,0 +1,38 @@
+FONTLOG for the Grenze fonts
+
+This file provides detailed information on the Grenze Font Software.
+This information should be distributed along with the Grenze fonts
+and any derivative works.
+
+Basic Font Information
+
+Grenze description.
+
+To contribute to the project contact Omnibus-Type 
+at omnibus.type@gmail.com
+
+ChangeLog
+
+2 Apr 2018 (v.1.001) Omnibus-Type
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Renata Polastri
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Principle designer of Grenze
+
+N: Pablo Cosgaya
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Typeface development
+
+N: Yorlmar Campos
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Typeface development
