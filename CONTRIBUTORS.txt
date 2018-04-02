@@ -9,6 +9,7 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Renata Polastri <omnibus.type@gmail.com>  
+Renata Polastri <omnibus.type@gmail.com>
+Oscar Guerrero Cañizares <omnibus.type@gmail.com>
 Pablo Cosgaya <omnibus.type@gmail.com>
 Yorlmar Campos <omnibus.type@gmail.com>
