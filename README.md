@@ -39,9 +39,9 @@ This information should be distributed along with the Grenze fonts and any deriv
 
 ### Grenze is a typeface family that supports Unicode language range: 
 
-* Basic Latin 				        U+0020-U+007E
-* Latin-1 Supplement 		      U+00A0-U+00FF
-* Latin Extended-A 			      U+0100-U+017F
+* Basic Latin 				U+0020-U+007E
+* Latin-1 Supplement 		U+00A0-U+00FF
+* Latin Extended-A 			U+0100-U+017F
 * Latin Extended Additional*	U+1E00-U+1EFF *(111/256)
 
 **Character map to support MS Codepages:**
