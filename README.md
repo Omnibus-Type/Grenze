@@ -3,7 +3,6 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Grenze description.
 
 ![Sample of Grenze Family.](Sources/Grenze01.png "Grenze Family")
 
