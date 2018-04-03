@@ -3,9 +3,12 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Grenze description.
 
+<<<<<<< HEAD
 ![Sample of Grenze Family.](sources/Grenze.pdf "Grenze Family")
+=======
+![Sample of Grenze Family.](Sources/Grenze01.png "Grenze Family")
+>>>>>>> fd8bf038428fe0ca02914e6840b22fe00437bce6
 
 ####Grenze Family contains:
 
