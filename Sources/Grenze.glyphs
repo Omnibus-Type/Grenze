@@ -1,9 +1,5 @@
 {
 .appVersion = "1134";
-DisplayStrings = (
-"/integral/summation/radical/hookabovecomb.case/brevecomb_hookabovecomb",
-"/commaaccentcomb.case"
-);
 classes = (
 {
 automatic = 1;
@@ -680,8 +676,8 @@ position = "{166, 727}";
 }
 );
 horizontalStems = (
-29,
-25
+25,
+29
 );
 id = "4F39836F-1187-466E-8FAB-7EBF43C51BB4";
 verticalStems = (
@@ -769,17 +765,19 @@ position = "{166, 768}";
 }
 );
 horizontalStems = (
+45,
 49,
+54,
 60,
 64,
-54
+74
 );
 id = "555729A4-F539-4650-9C4F-3880CB033E7B";
 verticalStems = (
-96,
+90,
 93,
-99,
-90
+96,
+99
 );
 weightValue = 91;
 xHeight = 448;
@@ -861,14 +859,14 @@ position = "{535, 793}";
 }
 );
 horizontalStems = (
-93,
-85
+85,
+93
 );
 id = "CB0A0A08-290D-4820-BDFF-3CAB47D8DECF";
 verticalStems = (
+173,
 187,
-199,
-173
+199
 );
 weight = Bold;
 weightValue = 173;
