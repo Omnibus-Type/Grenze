@@ -3,6 +3,7 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
+Grenze is a big typeface system of 9 weights (Thin, Extra Light, Light, Regular, Medium, Semi Bold, Bold, Extra Bold and Black) with matching italics. A hybrid development between Roman and Blackletter styles, in search of combining the impact and attraction of texture with the readability of classical forms. Designed to be applied mainly in magazines, it presents great performance and a rich palette of colors that invites to uses creative applications. The name of this family derives from the word “frontier”.
 
 ![Sample of Grenze Family.](sources/Grenze.png "Grenze Family")
 
