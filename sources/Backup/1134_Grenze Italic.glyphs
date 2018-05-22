@@ -1,5 +1,5 @@
 {
-.appVersion = "1143";
+.appVersion = "1134";
 classes = (
 {
 automatic = 1;
@@ -3853,6 +3853,7 @@ rightKerningGroup = Z;
 unicode = 01C4;
 },
 {
+color = 0;
 glyphname = Eth;
 layers = (
 {
@@ -3950,6 +3951,7 @@ rightKerningGroup = O;
 unicode = 010E;
 },
 {
+color = 0;
 glyphname = Dcroat;
 layers = (
 {
@@ -15553,6 +15555,7 @@ rightKerningGroup = T;
 unicode = 0054;
 },
 {
+color = 0;
 glyphname = Tbar;
 layers = (
 {
@@ -27752,6 +27755,7 @@ rightKerningGroup = n;
 unicode = 1E25;
 },
 {
+color = 9;
 glyphname = i;
 layers = (
 {
@@ -51553,6 +51557,7 @@ width = 500;
 );
 },
 {
+color = 0;
 glyphname = zero.tf.zero;
 layers = (
 {
@@ -69494,6 +69499,7 @@ width = 688;
 unicode = 221E;
 },
 {
+color = 0;
 glyphname = emptyset;
 layers = (
 {
@@ -75069,6 +75075,7 @@ width = 180;
 unicode = 02B9;
 },
 {
+color = 4;
 glyphname = dieresiscomb;
 layers = (
 {
@@ -75132,6 +75139,7 @@ width = 380;
 unicode = 0308;
 },
 {
+color = 4;
 glyphname = dotaccentcomb;
 layers = (
 {
@@ -75198,6 +75206,7 @@ width = 168;
 unicode = 0307;
 },
 {
+color = 4;
 glyphname = gravecomb;
 layers = (
 {
@@ -75264,6 +75273,7 @@ width = 240;
 unicode = 0300;
 },
 {
+color = 4;
 glyphname = acutecomb;
 layers = (
 {
@@ -75330,6 +75340,7 @@ width = 231;
 unicode = 0301;
 },
 {
+color = 4;
 glyphname = hungarumlautcomb;
 layers = (
 {
@@ -75396,6 +75407,7 @@ width = 427;
 unicode = 030B;
 },
 {
+color = 5;
 glyphname = caroncomb.alt;
 layers = (
 {
@@ -75449,6 +75461,7 @@ width = 153;
 );
 },
 {
+color = 4;
 glyphname = circumflexcomb;
 layers = (
 {
@@ -75515,6 +75528,7 @@ width = 338;
 unicode = 0302;
 },
 {
+color = 4;
 glyphname = caroncomb;
 layers = (
 {
@@ -75581,6 +75595,7 @@ width = 338;
 unicode = 030C;
 },
 {
+color = 4;
 glyphname = brevecomb;
 layers = (
 {
@@ -75647,6 +75662,7 @@ width = 337;
 unicode = 0306;
 },
 {
+color = 4;
 glyphname = ringcomb;
 layers = (
 {
@@ -75713,6 +75729,7 @@ width = 225;
 unicode = 030A;
 },
 {
+color = 4;
 glyphname = tildecomb;
 layers = (
 {
@@ -75779,6 +75796,7 @@ width = 337;
 unicode = 0303;
 },
 {
+color = 4;
 glyphname = macroncomb;
 layers = (
 {
@@ -75845,6 +75863,7 @@ width = 314;
 unicode = 0304;
 },
 {
+color = 4;
 glyphname = hookabovecomb;
 layers = (
 {
@@ -75986,6 +76005,7 @@ width = 199;
 unicode = 0309;
 },
 {
+color = 4;
 glyphname = dblgravecomb;
 layers = (
 {
@@ -76103,6 +76123,7 @@ width = 481;
 unicode = 030F;
 },
 {
+color = 4;
 glyphname = breveinvertedcomb;
 layers = (
 {
@@ -76217,6 +76238,7 @@ width = 337;
 unicode = 0311;
 },
 {
+color = 4;
 glyphname = commaturnedabovecomb;
 layers = (
 {
@@ -76343,6 +76365,7 @@ width = 148;
 unicode = 0312;
 },
 {
+color = 4;
 glyphname = commaabovecomb;
 layers = (
 {
@@ -76469,6 +76492,7 @@ width = 147;
 unicode = 0313;
 },
 {
+color = 4;
 glyphname = horncomb;
 layers = (
 {
@@ -76553,6 +76577,7 @@ width = 191;
 unicode = 031B;
 },
 {
+color = 4;
 glyphname = dotbelowcomb;
 layers = (
 {
@@ -76640,6 +76665,7 @@ width = 168;
 unicode = 0323;
 },
 {
+color = 4;
 glyphname = dieresisbelowcomb;
 layers = (
 {
@@ -76793,6 +76819,7 @@ width = 380;
 unicode = 0324;
 },
 {
+color = 4;
 glyphname = commaaccentcomb;
 layers = (
 {
@@ -76919,6 +76946,7 @@ width = 148;
 unicode = 0326;
 },
 {
+color = 4;
 glyphname = cedillacomb;
 layers = (
 {
@@ -76985,6 +77013,7 @@ width = 212;
 unicode = 0327;
 },
 {
+color = 4;
 glyphname = ogonekcomb;
 layers = (
 {
@@ -77039,6 +77068,7 @@ width = 215;
 unicode = 0328;
 },
 {
+color = 4;
 glyphname = brevebelowcomb;
 layers = (
 {
@@ -77153,6 +77183,7 @@ width = 337;
 unicode = 032E;
 },
 {
+color = 4;
 glyphname = macronbelowcomb;
 layers = (
 {
@@ -77222,6 +77253,7 @@ width = 315;
 unicode = 0331;
 },
 {
+color = 4;
 glyphname = strokeshortcomb;
 layers = (
 {
@@ -77294,6 +77326,7 @@ width = 332;
 unicode = 0335;
 },
 {
+color = 4;
 glyphname = strokelongcomb;
 layers = (
 {
@@ -77363,6 +77396,7 @@ width = 616;
 unicode = 0336;
 },
 {
+color = 4;
 glyphname = slashshortcomb;
 layers = (
 {
@@ -77439,6 +77473,7 @@ width = 302;
 unicode = 0337;
 },
 {
+color = 4;
 glyphname = slashlongcomb;
 layers = (
 {
@@ -78680,6 +78715,7 @@ width = 337;
 unicode = 02DC;
 },
 {
+color = 5;
 glyphname = cedillacomb.alt;
 layers = (
 {
@@ -78818,6 +78854,7 @@ width = 204;
 );
 },
 {
+color = 5;
 glyphname = caron.alt;
 layers = (
 {
@@ -78908,6 +78945,7 @@ width = 153;
 );
 },
 {
+color = 6;
 glyphname = dieresiscomb.case;
 layers = (
 {
@@ -79022,6 +79060,7 @@ width = 380;
 );
 },
 {
+color = 6;
 glyphname = dotaccentcomb.case;
 layers = (
 {
@@ -79108,6 +79147,7 @@ width = 168;
 );
 },
 {
+color = 6;
 glyphname = gravecomb.case;
 layers = (
 {
@@ -79208,6 +79248,7 @@ width = 240;
 );
 },
 {
+color = 6;
 glyphname = acutecomb.case;
 layers = (
 {
@@ -79294,6 +79335,7 @@ width = 250;
 );
 },
 {
+color = 6;
 glyphname = hungarumlautcomb.case;
 layers = (
 {
@@ -79410,6 +79452,7 @@ width = 469;
 );
 },
 {
+color = 6;
 glyphname = circumflexcomb.case;
 layers = (
 {
@@ -79505,6 +79548,7 @@ width = 338;
 );
 },
 {
+color = 6;
 glyphname = caroncomb.case;
 layers = (
 {
@@ -79600,6 +79644,7 @@ width = 337;
 );
 },
 {
+color = 6;
 glyphname = brevecomb.case;
 layers = (
 {
@@ -79713,6 +79758,7 @@ width = 337;
 );
 },
 {
+color = 6;
 glyphname = ringcomb.case;
 layers = (
 {
@@ -79889,6 +79935,7 @@ width = 226;
 );
 },
 {
+color = 6;
 glyphname = tildecomb.case;
 layers = (
 {
@@ -80020,6 +80067,7 @@ width = 336;
 );
 },
 {
+color = 6;
 glyphname = macroncomb.case;
 layers = (
 {
@@ -80103,6 +80151,7 @@ width = 315;
 );
 },
 {
+color = 6;
 glyphname = hookabovecomb.case;
 layers = (
 {
@@ -80243,6 +80292,7 @@ width = 199;
 );
 },
 {
+color = 6;
 glyphname = dblgravecomb.case;
 layers = (
 {
@@ -80359,6 +80409,7 @@ width = 460;
 );
 },
 {
+color = 6;
 glyphname = breveinvertedcomb.case;
 layers = (
 {
@@ -80472,6 +80523,7 @@ width = 337;
 );
 },
 {
+color = 6;
 glyphname = commaturnedabovecomb.case;
 layers = (
 {
@@ -80594,6 +80646,7 @@ width = 148;
 );
 },
 {
+color = 6;
 glyphname = horncomb.case;
 layers = (
 {
@@ -80674,6 +80727,7 @@ width = 191;
 );
 },
 {
+color = 6;
 glyphname = dotbelowcomb.case;
 layers = (
 {
@@ -80757,6 +80811,7 @@ width = 168;
 );
 },
 {
+color = 6;
 glyphname = dieresisbelowcomb.case;
 layers = (
 {
@@ -80894,6 +80949,7 @@ width = 380;
 );
 },
 {
+color = 6;
 glyphname = commaaccentcomb.case;
 layers = (
 {
@@ -81016,6 +81072,7 @@ width = 148;
 );
 },
 {
+color = 6;
 glyphname = cedillacomb.case;
 layers = (
 {
@@ -81144,6 +81201,7 @@ width = 212;
 );
 },
 {
+color = 6;
 glyphname = ogonekcomb.case;
 layers = (
 {
@@ -81263,6 +81321,7 @@ width = 214;
 );
 },
 {
+color = 6;
 glyphname = brevebelowcomb.case;
 layers = (
 {
@@ -81325,6 +81384,7 @@ width = 337;
 );
 },
 {
+color = 6;
 glyphname = macronbelowcomb.case;
 layers = (
 {
@@ -81405,6 +81465,7 @@ width = 315;
 );
 },
 {
+color = 6;
 glyphname = slashshortcomb.case;
 layers = (
 {
@@ -81524,6 +81585,7 @@ width = 370;
 );
 },
 {
+color = 6;
 glyphname = slashlongcomb.case;
 layers = (
 {
@@ -81628,6 +81690,7 @@ width = 479;
 );
 },
 {
+color = 6;
 glyphname = acute.loclPLK.case;
 layers = (
 {
@@ -81699,6 +81762,7 @@ width = 173;
 );
 },
 {
+color = 4;
 glyphname = acute.loclPLK;
 layers = (
 {
@@ -81823,6 +81887,7 @@ source = acute;
 };
 },
 {
+color = 1;
 glyphname = brevecomb_acutecomb;
 layers = (
 {
@@ -81867,6 +81932,7 @@ width = 337;
 );
 },
 {
+color = 1;
 glyphname = brevecomb_gravecomb;
 layers = (
 {
@@ -81911,6 +81977,7 @@ width = 337;
 );
 },
 {
+color = 1;
 glyphname = brevecomb_hookabovecomb;
 layers = (
 {
@@ -81955,6 +82022,7 @@ width = 337;
 );
 },
 {
+color = 1;
 glyphname = brevecomb_tildecomb;
 layers = (
 {
@@ -82002,6 +82070,7 @@ width = 345;
 );
 },
 {
+color = 1;
 glyphname = circumflexcomb_acutecomb;
 layers = (
 {
@@ -82049,6 +82118,7 @@ width = 338;
 );
 },
 {
+color = 1;
 glyphname = circumflexcomb_gravecomb;
 layers = (
 {
@@ -82096,6 +82166,7 @@ width = 338;
 );
 },
 {
+color = 1;
 glyphname = circumflexcomb_hookabovecomb;
 layers = (
 {
@@ -82143,6 +82214,7 @@ width = 338;
 );
 },
 {
+color = 1;
 glyphname = circumflexcomb_tildecomb;
 layers = (
 {
@@ -82409,6 +82481,7 @@ width = 600;
 unicode = F000;
 },
 {
+color = 0;
 export = 0;
 glyphname = apostrophecomb;
 layers = (
