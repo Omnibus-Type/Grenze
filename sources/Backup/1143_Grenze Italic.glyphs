@@ -1,8 +1,5 @@
 {
-.appVersion = "1150";
-DisplayStrings = (
-"»"
-);
+.appVersion = "1143";
 classes = (
 {
 automatic = 1;
@@ -59658,28 +59655,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"435 472 OFFCURVE",
-"499 556 OFFCURVE",
-"516 659 CURVE SMOOTH",
-"518 671 OFFCURVE",
-"490 709 OFFCURVE",
-"481 709 CURVE SMOOTH",
-"452 709 OFFCURVE",
-"380 699 OFFCURVE",
-"346 692 CURVE",
-"333 598 LINE SMOOTH",
-"331 587 OFFCURVE",
-"352 568 OFFCURVE",
-"360 560 CURVE",
-"346 518 OFFCURVE",
-"328 481 OFFCURVE",
-"312 447 CURVE",
-"371 401 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "226 472 OFFCURVE",
 "290 556 OFFCURVE",
 "307 659 CURVE SMOOTH",
@@ -59697,6 +59672,28 @@ nodes = (
 "119 481 OFFCURVE",
 "103 447 CURVE",
 "162 401 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"435 472 OFFCURVE",
+"499 556 OFFCURVE",
+"516 659 CURVE SMOOTH",
+"518 671 OFFCURVE",
+"490 709 OFFCURVE",
+"481 709 CURVE SMOOTH",
+"452 709 OFFCURVE",
+"380 699 OFFCURVE",
+"346 692 CURVE",
+"333 598 LINE SMOOTH",
+"331 587 OFFCURVE",
+"352 568 OFFCURVE",
+"360 560 CURVE",
+"346 518 OFFCURVE",
+"328 481 OFFCURVE",
+"312 447 CURVE",
+"371 401 LINE"
 );
 }
 );
@@ -60129,19 +60126,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"188 230 LINE",
-"190 247 LINE",
-"84 407 LINE",
-"71 399 LINE",
-"157 244 LINE",
-"156 234 LINE",
-"17 66 LINE",
-"29 54 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "338 230 LINE",
 "340 247 LINE",
 "234 407 LINE",
@@ -60150,6 +60134,19 @@ nodes = (
 "306 234 LINE",
 "167 66 LINE",
 "179 54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"188 230 LINE",
+"190 247 LINE",
+"84 407 LINE",
+"71 399 LINE",
+"157 244 LINE",
+"156 234 LINE",
+"17 66 LINE",
+"29 54 LINE"
 );
 }
 );
@@ -60161,19 +60158,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"284 188 LINE",
-"299 285 LINE",
-"157 436 LINE",
-"88 393 LINE",
-"134 243 LINE",
-"132 229 LINE",
-"42 70 LINE",
-"99 24 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "523 188 LINE",
 "538 285 LINE",
 "396 436 LINE",
@@ -60182,6 +60166,19 @@ nodes = (
 "371 229 LINE",
 "281 70 LINE",
 "338 24 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"284 188 LINE",
+"299 285 LINE",
+"157 436 LINE",
+"88 393 LINE",
+"134 243 LINE",
+"132 229 LINE",
+"42 70 LINE",
+"99 24 LINE"
 );
 }
 );
