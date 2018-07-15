@@ -8,7 +8,7 @@ Grenze is a big typeface system of 9 weights (Thin, Extra Light, Light, Regular,
 
 ![Sample of Grenze Family.](sources/Grenze.png "Grenze Family")
 
-####Grenze Family contains:
+#### Grenze Family contains:
 
 * Thin/ThinItalic
 * ExtraLight/ExtraLightItalic
