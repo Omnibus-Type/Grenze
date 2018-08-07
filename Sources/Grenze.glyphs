@@ -1,5 +1,5 @@
 {
-.appVersion = "1143";
+.appVersion = "1161";
 classes = (
 {
 automatic = 1;
@@ -616,11 +616,11 @@ capHeight = 591;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1100;
 },
 {
 name = typoDescender;
-value = -250;
+value = -380;
 },
 {
 name = typoLineGap;
@@ -640,28 +640,15 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1100;
+value = 1111;
 },
 {
 name = winDescent;
 value = -380;
 },
 {
-name = underlineThickness;
-value = 23;
-},
-{
 name = underlinePosition;
 value = -170;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
 }
 );
 descender = -250;
@@ -705,11 +692,11 @@ capHeight = 603;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1100;
 },
 {
 name = typoDescender;
-value = -250;
+value = -380;
 },
 {
 name = typoLineGap;
@@ -729,28 +716,15 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1100;
+value = 1111;
 },
 {
 name = winDescent;
 value = -380;
 },
 {
-name = underlineThickness;
-value = 55;
-},
-{
 name = underlinePosition;
 value = -170;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
 }
 );
 descender = -250;
@@ -799,11 +773,11 @@ capHeight = 612;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1100;
 },
 {
 name = typoDescender;
-value = -250;
+value = -380;
 },
 {
 name = typoLineGap;
@@ -823,28 +797,15 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1100;
+value = 1111;
 },
 {
 name = winDescent;
 value = -380;
 },
 {
-name = underlineThickness;
-value = 90;
-},
-{
 name = underlinePosition;
 value = -170;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
 }
 );
 descender = -250;
@@ -75430,6 +75391,10 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
+},
+{
+name = weightClass;
+value = 250;
 }
 );
 interpolationWeight = 29;
@@ -75459,6 +75424,10 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
+},
+{
+name = weightClass;
+value = 275;
 }
 );
 interpolationWeight = 45;
