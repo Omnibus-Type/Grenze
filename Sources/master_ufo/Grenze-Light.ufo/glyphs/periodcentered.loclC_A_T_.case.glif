@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.loclCAT.case" format="2">
+  <advance width="39.0"/>
+  <anchor x="0.0" y="440.0" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="6.0" y="268.0" type="line"/>
+      <point x="31.0" y="268.0" type="line"/>
+      <point x="39.0" y="329.0" type="line"/>
+      <point x="29.0" y="340.0" type="line"/>
+      <point x="0.0" y="337.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisbelowcomb.case" format="2">
+  <anchor x="83.0" y="0.0" name="_bottom"/>
+  <anchor x="83.0" y="-155.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="132.0" y="-154.0" type="line"/>
+      <point x="157.0" y="-154.0" type="line"/>
+      <point x="165.0" y="-93.0" type="line"/>
+      <point x="155.0" y="-82.0" type="line"/>
+      <point x="126.0" y="-85.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="6.0" y="-154.0" type="line"/>
+      <point x="31.0" y="-154.0" type="line"/>
+      <point x="39.0" y="-93.0" type="line"/>
+      <point x="29.0" y="-82.0" type="line"/>
+      <point x="0.0" y="-85.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>165.0</real>
+    </dict>
+  </lib>
+</glyph>

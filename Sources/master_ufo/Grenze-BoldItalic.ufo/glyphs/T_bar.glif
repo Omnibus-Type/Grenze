@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="573.0"/>
+  <unicode hex="0166"/>
+  <anchor x="261.0" y="0.0" name="bottom"/>
+  <anchor x="300.0" y="283.0" name="center"/>
+  <anchor x="358.0" y="613.0" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="strokeshortcomb" xOffset="121.0" yOffset="-21.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

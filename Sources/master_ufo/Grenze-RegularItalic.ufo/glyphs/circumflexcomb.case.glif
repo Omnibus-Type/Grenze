@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb.case" format="2">
+  <anchor x="198.0" y="603.0" name="_top"/>
+  <anchor x="220.0" y="764.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="110.0" y="660.0" type="line"/>
+      <point x="205.0" y="712.0" type="line"/>
+      <point x="215.0" y="712.0" type="line"/>
+      <point x="297.0" y="660.0" type="line"/>
+      <point x="334.0" y="690.0" type="line"/>
+      <point x="247.0" y="784.0" type="line"/>
+      <point x="193.0" y="784.0" type="line"/>
+      <point x="82.0" y="690.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>252.0</real>
+    </dict>
+  </lib>
+</glyph>

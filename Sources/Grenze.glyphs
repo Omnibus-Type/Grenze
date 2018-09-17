@@ -1,5 +1,5 @@
 {
-.appVersion = "1163";
+.appVersion = "1165";
 classes = (
 {
 automatic = 1;
@@ -611,7 +611,7 @@ value = -380;
 },
 {
 name = typoLineGap;
-value = 460;
+value = 0;
 },
 {
 name = hheaAscender;
@@ -631,7 +631,7 @@ value = 1111;
 },
 {
 name = winDescent;
-value = -380;
+value = 380;
 },
 {
 name = underlinePosition;
@@ -687,7 +687,7 @@ value = -380;
 },
 {
 name = typoLineGap;
-value = 460;
+value = 0;
 },
 {
 name = hheaAscender;
@@ -707,7 +707,7 @@ value = 1111;
 },
 {
 name = winDescent;
-value = -380;
+value = 380;
 },
 {
 name = underlinePosition;
@@ -768,7 +768,7 @@ value = -380;
 },
 {
 name = typoLineGap;
-value = 460;
+value = 0;
 },
 {
 name = hheaAscender;
@@ -788,7 +788,7 @@ value = 1111;
 },
 {
 name = winDescent;
-value = -380;
+value = 380;
 },
 {
 name = underlinePosition;
@@ -75745,5 +75745,5 @@ GSDontShowVersionAlert = 1;
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }

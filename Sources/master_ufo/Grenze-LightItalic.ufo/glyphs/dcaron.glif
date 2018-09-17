@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="455.0"/>
+  <unicode hex="010F"/>
+  <anchor x="170.0" y="0.0" name="bottom"/>
+  <anchor x="334.0" y="525.0" name="center"/>
+  <anchor x="375.0" y="591.0" name="top"/>
+  <anchor x="442.0" y="440.0" name="topright"/>
+  <outline>
+    <component base="d" xOffset="1.0"/>
+    <component base="caroncomb.alt" xOffset="413.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NJ.alt" format="2">
+  <advance width="891.0"/>
+  <anchor x="262.0" y="0.0" name="bottom"/>
+  <anchor x="357.0" y="603.0" name="top_1"/>
+  <anchor x="823.0" y="603.0" name="top_2"/>
+  <outline>
+    <component base="N.alt"/>
+    <component base="J" xOffset="610.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>J</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

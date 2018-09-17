@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jacute" format="2">
+  <advance width="440.0"/>
+  <anchor x="97.0" y="0.0" name="bottom_1"/>
+  <anchor x="249.0" y="-250.0" name="bottom_2"/>
+  <anchor x="164.0" y="10.0" name="ogonek"/>
+  <anchor x="146.0" y="440.0" name="top_1"/>
+  <anchor x="376.0" y="440.0" name="top_2"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="acutecomb" xOffset="43.0"/>
+    <component base="jdotless" xOffset="223.0"/>
+    <component base="acutecomb" xOffset="273.0"/>
+  </outline>
+</glyph>

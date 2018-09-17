@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexgrave" format="2">
+  <advance width="624.0"/>
+  <unicode hex="1EA6"/>
+  <anchor x="276.0" y="0.0" name="bottom"/>
+  <anchor x="523.0" y="0.0" name="ogonek"/>
+  <anchor x="454.0" y="1048.0" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflexcomb.case" xOffset="144.0"/>
+    <component base="gravecomb.case" xOffset="211.0" yOffset="207.0"/>
+  </outline>
+</glyph>

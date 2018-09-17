@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="277.0" y="661.0" type="line"/>
+      <point x="326.0" y="719.0" type="line"/>
+      <point x="183.0" y="873.0" type="line"/>
+      <point x="108.0" y="819.0" type="line"/>
+      <point x="94.0" y="764.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

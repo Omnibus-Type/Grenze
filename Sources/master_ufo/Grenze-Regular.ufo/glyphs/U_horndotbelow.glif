@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorndotbelow" format="2">
+  <advance width="597.0"/>
+  <unicode hex="1EF0"/>
+  <anchor x="311.0" y="-169.0" name="bottom"/>
+  <anchor x="298.0" y="603.0" name="top"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="dotbelowcomb.case" xOffset="265.0"/>
+  </outline>
+</glyph>

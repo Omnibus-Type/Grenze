@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="2">
+  <advance width="501.0"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="33.0" y="0.0" type="line"/>
+      <point x="215.0" y="0.0" type="line"/>
+      <point x="320.0" y="613.0" type="line"/>
+      <point x="138.0" y="613.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-25.0" y="0.0" type="line"/>
+      <point x="314.0" y="0.0" type="line"/>
+      <point x="327.0" y="80.0" type="line"/>
+      <point x="157.0" y="108.0" type="line"/>
+      <point x="-14.0" y="72.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="231.0" y="246.0" type="line"/>
+      <point x="381.0" y="252.0" type="line"/>
+      <point x="397.0" y="345.0" type="line"/>
+      <point x="247.0" y="351.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="213.0" y="506.0" type="line"/>
+      <point x="476.0" y="532.0" type="line"/>
+      <point x="490.0" y="613.0" type="line"/>
+      <point x="77.0" y="613.0" type="line"/>
+      <point x="66.0" y="541.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="426.0" y="389.0" type="line"/>
+      <point x="515.0" y="389.0" type="line"/>
+      <point x="552.0" y="613.0" type="line"/>
+      <point x="435.0" y="613.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

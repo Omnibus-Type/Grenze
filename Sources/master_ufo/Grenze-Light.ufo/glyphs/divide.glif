@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+  <advance width="632.0"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <component base="period" xOffset="240.0" yOffset="400.0"/>
+    <component base="minus" yOffset="11.0"/>
+    <component base="period" xOffset="240.0" yOffset="59.0"/>
+  </outline>
+</glyph>

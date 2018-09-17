@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="2">
+  <advance width="443.0"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="42.0" y="0.0" type="line"/>
+      <point x="297.0" y="0.0" type="line"/>
+      <point x="297.0" y="46.0" type="line"/>
+      <point x="197.0" y="65.0" type="line"/>
+      <point x="197.0" y="248.0" type="line"/>
+      <point x="336.0" y="253.0" type="line"/>
+      <point x="336.0" y="300.0" type="line"/>
+      <point x="197.0" y="305.0" type="line"/>
+      <point x="197.0" y="483.0" type="line"/>
+      <point x="343.0" y="497.0" type="line"/>
+      <point x="354.0" y="371.0" type="line"/>
+      <point x="408.0" y="371.0" type="line"/>
+      <point x="421.0" y="546.0" type="line"/>
+      <point x="42.0" y="546.0" type="line"/>
+      <point x="42.0" y="508.0" type="line"/>
+      <point x="104.0" y="488.0" type="line"/>
+      <point x="104.0" y="58.0" type="line"/>
+      <point x="42.0" y="38.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="28.0" y="130.0" type="line"/>
+      <point x="295.0" y="130.0" type="line"/>
+      <point x="300.0" y="179.0" type="line"/>
+      <point x="33.0" y="179.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>F</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.lf" format="2">
+  <advance width="527.0"/>
+  <outline>
+    <contour>
+      <point x="34.0" y="138.0" type="line"/>
+      <point x="173.0" y="138.0" type="line"/>
+      <point x="169.0" y="270.0" type="line"/>
+      <point x="304.0" y="470.0" type="line"/>
+      <point x="468.0" y="470.0" type="line"/>
+      <point x="499.0" y="585.0" type="line"/>
+      <point x="258.0" y="585.0" type="line"/>
+      <point x="29.0" y="249.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="125.0" y="0.0" type="line"/>
+      <point x="480.0" y="0.0" type="line"/>
+      <point x="491.0" y="66.0" type="line"/>
+      <point x="313.0" y="102.0" type="line"/>
+      <point x="136.0" y="69.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="34.0" y="138.0" type="line"/>
+      <point x="502.0" y="138.0" type="line"/>
+      <point x="523.0" y="260.0" type="line"/>
+      <point x="170.0" y="260.0" type="line"/>
+      <point x="29.0" y="249.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="228.0" y="0.0" type="line"/>
+      <point x="393.0" y="0.0" type="line"/>
+      <point x="499.0" y="585.0" type="line"/>
+      <point x="333.0" y="585.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

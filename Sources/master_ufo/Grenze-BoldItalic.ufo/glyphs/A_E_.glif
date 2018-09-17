@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="772.0"/>
+  <unicode hex="00C6"/>
+  <anchor x="495.0" y="613.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-109.0" y="0.0" type="line"/>
+      <point x="49.0" y="0.0" type="line"/>
+      <point x="420.0" y="613.0" type="line"/>
+      <point x="310.0" y="613.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-143.0" y="0.0" type="line"/>
+      <point x="156.0" y="0.0" type="line"/>
+      <point x="169.0" y="80.0" type="line"/>
+      <point x="39.0" y="108.0" type="line"/>
+      <point x="-132.0" y="72.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="209.0" y="0.0" type="line"/>
+      <point x="660.0" y="0.0" type="line"/>
+      <point x="674.0" y="82.0" type="line"/>
+      <point x="391.0" y="108.0" type="line"/>
+      <point x="221.0" y="72.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="78.0" y="168.0" type="line"/>
+      <point x="320.0" y="168.0" type="line"/>
+      <point x="335.0" y="261.0" type="line"/>
+      <point x="93.0" y="261.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="267.0" y="0.0" type="line"/>
+      <point x="449.0" y="0.0" type="line"/>
+      <point x="554.0" y="613.0" type="line"/>
+      <point x="372.0" y="613.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="586.0" y="0.0" type="line"/>
+      <point x="704.0" y="0.0" type="line"/>
+      <point x="739.0" y="235.0" type="line"/>
+      <point x="650.0" y="235.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="464.0" y="263.0" type="line"/>
+      <point x="624.0" y="269.0" type="line"/>
+      <point x="640.0" y="362.0" type="line"/>
+      <point x="480.0" y="368.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="297.0" y="506.0" type="line"/>
+      <point x="725.0" y="532.0" type="line"/>
+      <point x="739.0" y="613.0" type="line"/>
+      <point x="161.0" y="613.0" type="line"/>
+      <point x="150.0" y="541.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="676.0" y="384.0" type="line"/>
+      <point x="765.0" y="384.0" type="line"/>
+      <point x="802.0" y="613.0" type="line"/>
+      <point x="685.0" y="613.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.zero" format="2">
+  <advance width="501.0"/>
+  <outline>
+    <contour>
+      <point x="181.0" y="21.0" type="line"/>
+      <point x="368.0" y="427.0" type="line"/>
+      <point x="326.0" y="445.0" type="line"/>
+      <point x="142.0" y="46.0" type="line"/>
+    </contour>
+    <component base="zero" xOffset="-1.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

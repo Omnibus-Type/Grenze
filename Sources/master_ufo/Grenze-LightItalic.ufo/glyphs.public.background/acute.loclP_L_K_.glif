@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.loclPLK" format="2">
+  <outline>
+    <contour>
+      <point x="59.0" y="537.0" type="line"/>
+      <point x="102.0" y="565.0"/>
+      <point x="150.0" y="596.0"/>
+      <point x="186.0" y="620.0" type="curve"/>
+      <point x="185.0" y="634.0" type="line"/>
+      <point x="169.0" y="648.0" type="line"/>
+      <point x="49.0" y="549.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

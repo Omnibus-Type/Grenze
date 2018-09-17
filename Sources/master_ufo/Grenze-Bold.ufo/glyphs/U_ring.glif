@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uring" format="2">
+  <advance width="673.0"/>
+  <unicode hex="016E"/>
+  <anchor x="348.0" y="0.0" name="bottom"/>
+  <anchor x="603.0" y="-1.0" name="ogonek"/>
+  <anchor x="331.0" y="860.0" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="ringcomb.case" xOffset="218.0"/>
+  </outline>
+</glyph>
