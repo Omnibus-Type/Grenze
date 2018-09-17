@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.dnom" format="2">
+  <advance width="395.0"/>
+  <outline>
+    <component base="foursuperior" xOffset="-64.0" yOffset="-363.0"/>
+  </outline>
+</glyph>

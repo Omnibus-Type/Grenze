@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotbelow" format="2">
+  <advance width="375.0"/>
+  <unicode hex="1E93"/>
+  <anchor x="144.0" y="-154.0" name="bottom"/>
+  <anchor x="216.0" y="440.0" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="dotbelowcomb" xOffset="189.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent.alt" format="2">
+  <advance width="673.0"/>
+  <anchor x="336.0" y="-314.0" name="bottom"/>
+  <anchor x="319.0" y="612.0" name="top"/>
+  <outline>
+    <component base="N.alt"/>
+    <component base="commaaccentcomb.case" xOffset="262.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

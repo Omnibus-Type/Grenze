@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorntilde" format="2">
+  <advance width="453.0"/>
+  <unicode hex="1EE1"/>
+  <anchor x="221.0" y="0.0" name="bottom"/>
+  <anchor x="221.0" y="217.0" name="center"/>
+  <anchor x="243.0" y="0.0" name="ogonek"/>
+  <anchor x="226.0" y="607.0" name="top"/>
+  <anchor x="295.0" y="448.0" name="topright"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="tildecomb" xOffset="73.0"/>
+  </outline>
+</glyph>

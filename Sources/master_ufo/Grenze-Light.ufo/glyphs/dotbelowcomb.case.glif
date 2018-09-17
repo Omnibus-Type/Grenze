@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb.case" format="2">
+  <anchor x="20.0" y="0.0" name="_bottom"/>
+  <anchor x="20.0" y="-154.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="6.0" y="-154.0" type="line"/>
+      <point x="31.0" y="-154.0" type="line"/>
+      <point x="39.0" y="-93.0" type="line"/>
+      <point x="29.0" y="-82.0" type="line"/>
+      <point x="0.0" y="-85.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>39.0</real>
+    </dict>
+  </lib>
+</glyph>

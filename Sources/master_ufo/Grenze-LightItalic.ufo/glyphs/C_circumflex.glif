@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccircumflex" format="2">
+  <advance width="393.0"/>
+  <unicode hex="0108"/>
+  <anchor x="229.0" y="0.0" name="bottom"/>
+  <anchor x="332.0" y="750.0" name="top"/>
+  <outline>
+    <component base="C"/>
+    <component base="circumflexcomb.case" xOffset="143.0"/>
+  </outline>
+</glyph>

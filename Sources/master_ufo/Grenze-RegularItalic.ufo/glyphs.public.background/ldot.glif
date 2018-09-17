@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="2">
+  <outline>
+    <contour>
+      <point x="210.0" y="264.0" type="line"/>
+      <point x="280.0" y="264.0" type="line"/>
+      <point x="301.0" y="351.0" type="line"/>
+      <point x="290.0" y="373.0" type="line"/>
+      <point x="222.0" y="368.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

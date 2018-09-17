@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tf.zero" format="2">
+  <advance width="500.0"/>
+  <outline>
+    <contour>
+      <point x="153.0" y="23.0" type="line"/>
+      <point x="387.0" y="522.0" type="line"/>
+      <point x="371.0" y="541.0" type="line"/>
+      <point x="136.0" y="40.0" type="line"/>
+    </contour>
+    <component base="zero.lf" xOffset="20.0"/>
+  </outline>
+</glyph>

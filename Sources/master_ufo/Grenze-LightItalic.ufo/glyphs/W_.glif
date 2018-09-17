@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+  <advance width="714.0"/>
+  <unicode hex="0057"/>
+  <anchor x="427.0" y="591.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="448.0" y="-9.0" type="line"/>
+      <point x="489.0" y="0.0" type="line"/>
+      <point x="733.0" y="574.0" type="line"/>
+      <point x="713.0" y="591.0" type="line"/>
+      <point x="470.0" y="16.0" type="line"/>
+      <point x="464.0" y="16.0" type="line"/>
+      <point x="458.0" y="160.0" type="line"/>
+      <point x="434.0" y="591.0" type="line"/>
+      <point x="405.0" y="591.0" type="line"/>
+      <point x="439.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="182.0" y="-9.0" type="line"/>
+      <point x="222.0" y="0.0" type="line"/>
+      <point x="409.0" y="457.0" type="line"/>
+      <point x="423.0" y="457.0" type="line"/>
+      <point x="417.0" y="534.0" type="line"/>
+      <point x="203.0" y="16.0" type="line"/>
+      <point x="197.0" y="16.0" type="line"/>
+      <point x="190.0" y="160.0" type="line"/>
+      <point x="159.0" y="591.0" type="line"/>
+      <point x="130.0" y="591.0" type="line"/>
+      <point x="173.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="149.0" y="563.0" type="line"/>
+      <point x="225.0" y="573.0" type="line"/>
+      <point x="228.0" y="591.0" type="line"/>
+      <point x="72.0" y="591.0" type="line"/>
+      <point x="69.0" y="576.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="424.0" y="563.0" type="line"/>
+      <point x="500.0" y="573.0" type="line"/>
+      <point x="503.0" y="591.0" type="line"/>
+      <point x="347.0" y="591.0" type="line"/>
+      <point x="344.0" y="576.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="714.0" y="563.0" type="line"/>
+      <point x="733.0" y="574.0" type="line"/>
+      <point x="730.0" y="591.0" type="line"/>
+      <point x="648.0" y="591.0" type="line"/>
+      <point x="645.0" y="573.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>V</string>
+    </dict>
+  </lib>
+</glyph>

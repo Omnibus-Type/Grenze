@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronbelowcomb" format="2">
+  <unicode hex="0331"/>
+  <anchor x="98.0" y="0.0" name="_bottom"/>
+  <anchor x="66.0" y="-181.0" name="bottom"/>
+  <outline>
+    <component base="macron" xOffset="-128.0" yOffset="-728.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>275.0</real>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ndotaccent" format="2">
+  <advance width="669.0"/>
+  <unicode hex="1E44"/>
+  <anchor x="335.0" y="0.0" name="bottom"/>
+  <anchor x="343.0" y="775.0" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="dotaccentcomb.case" xOffset="258.0"/>
+  </outline>
+</glyph>

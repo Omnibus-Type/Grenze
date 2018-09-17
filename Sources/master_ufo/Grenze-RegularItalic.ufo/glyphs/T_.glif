@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+  <advance width="460.0"/>
+  <unicode hex="0054"/>
+  <anchor x="199.0" y="0.0" name="bottom"/>
+  <anchor x="252.0" y="304.0" name="center"/>
+  <anchor x="302.0" y="603.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="151.0" y="0.0" type="line"/>
+      <point x="242.0" y="0.0" type="line"/>
+      <point x="347.0" y="603.0" type="line"/>
+      <point x="256.0" y="603.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="83.0" y="0.0" type="line"/>
+      <point x="316.0" y="0.0" type="line"/>
+      <point x="324.0" y="46.0" type="line"/>
+      <point x="212.0" y="74.0" type="line"/>
+      <point x="89.0" y="38.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="59.0" y="415.0" type="line"/>
+      <point x="110.0" y="415.0" type="line"/>
+      <point x="157.0" y="603.0" type="line"/>
+      <point x="78.0" y="603.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="78.0" y="535.0" type="line"/>
+      <point x="289.0" y="554.0" type="line"/>
+      <point x="501.0" y="535.0" type="line"/>
+      <point x="523.0" y="603.0" type="line"/>
+      <point x="78.0" y="603.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="427.0" y="415.0" type="line"/>
+      <point x="479.0" y="415.0" type="line"/>
+      <point x="523.0" y="603.0" type="line"/>
+      <point x="443.0" y="603.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

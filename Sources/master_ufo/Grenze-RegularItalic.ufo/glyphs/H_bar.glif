@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+  <advance width="596.0"/>
+  <unicode hex="0126"/>
+  <anchor x="259.0" y="0.0" name="bottom"/>
+  <anchor x="338.0" y="448.0" name="center"/>
+  <anchor x="365.0" y="603.0" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="strokelongcomb" xOffset="63.0" yOffset="141.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

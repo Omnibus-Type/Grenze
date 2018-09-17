@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="2">
+  <outline>
+    <contour>
+      <point x="167.0" y="541.0" type="curve" smooth="yes"/>
+      <point x="170.0" y="541.0"/>
+      <point x="179.0" y="544.0"/>
+      <point x="185.0" y="546.0" type="curve"/>
+      <point x="200.0" y="610.0" type="line" smooth="yes"/>
+      <point x="201.0" y="614.0"/>
+      <point x="192.0" y="624.0"/>
+      <point x="188.0" y="624.0" type="curve" smooth="yes"/>
+      <point x="184.0" y="624.0"/>
+      <point x="172.0" y="621.0"/>
+      <point x="164.0" y="619.0" type="curve"/>
+      <point x="155.0" y="555.0" type="line"/>
+      <point x="155.0" y="550.0"/>
+      <point x="163.0" y="541.0"/>
+    </contour>
+  </outline>
+</glyph>

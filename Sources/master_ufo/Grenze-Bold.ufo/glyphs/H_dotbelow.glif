@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hdotbelow" format="2">
+  <advance width="693.0"/>
+  <unicode hex="1E24"/>
+  <anchor x="348.0" y="-196.0" name="bottom"/>
+  <anchor x="346.0" y="447.0" name="center"/>
+  <anchor x="347.0" y="612.0" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="dotbelowcomb.case" xOffset="262.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

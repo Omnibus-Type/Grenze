@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophe" format="2">
+  <advance width="120.0"/>
+  <outline>
+    <contour>
+      <point x="95.0" y="495.0" type="line"/>
+      <point x="140.0" y="560.0"/>
+      <point x="148.0" y="596.0"/>
+      <point x="161.0" y="659.0" type="curve" smooth="yes"/>
+      <point x="162.0" y="664.0"/>
+      <point x="153.0" y="673.0"/>
+      <point x="149.0" y="673.0" type="curve" smooth="yes"/>
+      <point x="144.0" y="673.0"/>
+      <point x="132.0" y="670.0"/>
+      <point x="122.0" y="668.0" type="curve"/>
+      <point x="110.0" y="598.0" type="line" smooth="yes"/>
+      <point x="109.0" y="593.0"/>
+      <point x="116.0" y="588.0"/>
+      <point x="120.0" y="584.0" type="curve"/>
+      <point x="112.0" y="560.0"/>
+      <point x="95.0" y="525.0"/>
+      <point x="83.0" y="504.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

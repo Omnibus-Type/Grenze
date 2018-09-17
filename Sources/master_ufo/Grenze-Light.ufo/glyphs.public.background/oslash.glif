@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="2">
+  <outline>
+    <contour>
+      <point x="356.0" y="522.0" type="line"/>
+      <point x="82.0" y="-62.0" type="line"/>
+      <point x="85.0" y="-73.0" type="line"/>
+      <point x="99.0" y="-79.0" type="line"/>
+      <point x="373.0" y="505.0" type="line"/>
+      <point x="371.0" y="516.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

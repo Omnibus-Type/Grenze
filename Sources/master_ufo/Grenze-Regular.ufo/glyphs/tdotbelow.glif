@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tdotbelow" format="2">
+  <advance width="280.0"/>
+  <unicode hex="1E6D"/>
+  <anchor x="177.0" y="-169.0" name="bottom"/>
+  <anchor x="130.0" y="238.0" name="center"/>
+  <anchor x="188.0" y="448.0" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="dotbelowcomb" xOffset="131.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zacute.loclPLK" format="2">
+  <advance width="477.0"/>
+  <anchor x="239.0" y="0.0" name="bottom"/>
+  <anchor x="246.0" y="603.0" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="acute.loclPLK.case" xOffset="224.0"/>
+  </outline>
+</glyph>

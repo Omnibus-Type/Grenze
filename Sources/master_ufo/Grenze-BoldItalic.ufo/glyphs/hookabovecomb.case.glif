@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb.case" format="2">
+  <anchor x="161.0" y="612.0" name="_top"/>
+  <anchor x="226.0" y="903.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="134.0" y="657.0" type="line"/>
+      <point x="208.0" y="697.0"/>
+      <point x="273.0" y="737.0"/>
+      <point x="292.0" y="774.0" type="curve"/>
+      <point x="296.0" y="783.0"/>
+      <point x="298.0" y="791.0"/>
+      <point x="299.0" y="799.0" type="curve" smooth="yes"/>
+      <point x="307.0" y="860.0"/>
+      <point x="266.0" y="903.0"/>
+      <point x="195.0" y="903.0" type="curve" smooth="yes"/>
+      <point x="172.0" y="903.0"/>
+      <point x="145.0" y="899.0"/>
+      <point x="116.0" y="890.0" type="curve"/>
+      <point x="118.0" y="814.0" type="line"/>
+      <point x="126.0" y="815.0"/>
+      <point x="133.0" y="816.0"/>
+      <point x="139.0" y="816.0" type="curve" smooth="yes"/>
+      <point x="166.0" y="816.0"/>
+      <point x="177.0" y="804.0"/>
+      <point x="175.0" y="789.0" type="curve" smooth="yes"/>
+      <point x="172.0" y="768.0"/>
+      <point x="146.0" y="740.0"/>
+      <point x="109.0" y="717.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>199.0</real>
+    </dict>
+  </lib>
+</glyph>

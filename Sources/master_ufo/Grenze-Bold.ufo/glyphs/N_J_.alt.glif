@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NJ.alt" format="2">
+  <advance width="1017.0"/>
+  <anchor x="337.0" y="0.0" name="bottom"/>
+  <anchor x="319.0" y="612.0" name="top_1"/>
+  <anchor x="845.0" y="612.0" name="top_2"/>
+  <outline>
+    <component base="N.alt"/>
+    <component base="J" xOffset="673.0"/>
+  </outline>
+</glyph>

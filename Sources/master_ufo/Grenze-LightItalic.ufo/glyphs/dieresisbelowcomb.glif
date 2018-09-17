@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisbelowcomb" format="2">
+  <unicode hex="0324"/>
+  <anchor x="45.0" y="0.0" name="_bottom"/>
+  <anchor x="18.0" y="-155.0" name="bottom"/>
+  <outline>
+    <component base="dotbelowcomb"/>
+    <component base="dotbelowcomb" xOffset="126.0" yOffset="-1.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>164.0</real>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

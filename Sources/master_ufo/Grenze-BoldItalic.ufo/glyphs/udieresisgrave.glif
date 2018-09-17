@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresisgrave" format="2">
+  <advance width="509.0"/>
+  <unicode hex="01DC"/>
+  <anchor x="223.0" y="0.0" name="bottom"/>
+  <anchor x="463.0" y="15.0" name="ogonek"/>
+  <anchor x="350.0" y="915.0" name="top"/>
+  <anchor x="415.0" y="462.0" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="34.0"/>
+    <component base="gravecomb" xOffset="116.0" yOffset="183.0"/>
+  </outline>
+</glyph>

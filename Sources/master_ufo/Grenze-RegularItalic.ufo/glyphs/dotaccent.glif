@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+  <advance width="88.0"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="62.0" y="537.0" type="line"/>
+      <point x="139.0" y="537.0" type="line"/>
+      <point x="159.0" y="624.0" type="line"/>
+      <point x="148.0" y="646.0" type="line"/>
+      <point x="74.0" y="641.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="522.0"/>
+  <unicode hex="2052"/>
+  <outline>
+    <component base="slash" xOffset="45.0" yOffset="20.0"/>
+    <component base="period" xOffset="-11.0" yOffset="522.0"/>
+    <component base="period" xOffset="266.0"/>
+  </outline>
+</glyph>

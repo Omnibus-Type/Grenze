@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+  <advance width="422.0"/>
+  <unicode hex="0045"/>
+  <anchor x="213.0" y="0.0" name="bottom"/>
+  <anchor x="348.0" y="0.0" name="ogonek"/>
+  <anchor x="294.0" y="591.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="70.0" y="0.0" type="line"/>
+      <point x="98.0" y="0.0" type="line"/>
+      <point x="201.0" y="591.0" type="line"/>
+      <point x="173.0" y="591.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="12.0" y="0.0" type="line"/>
+      <point x="339.0" y="0.0" type="line"/>
+      <point x="342.0" y="19.0" type="line"/>
+      <point x="93.0" y="28.0" type="line"/>
+      <point x="15.0" y="15.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="316.0" y="0.0" type="line"/>
+      <point x="348.0" y="0.0" type="line"/>
+      <point x="371.0" y="136.0" type="line"/>
+      <point x="352.0" y="137.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="144.0" y="300.0" type="line"/>
+      <point x="306.0" y="304.0" type="line"/>
+      <point x="309.0" y="323.0" type="line"/>
+      <point x="149.0" y="327.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="187.0" y="563.0" type="line"/>
+      <point x="412.0" y="570.0" type="line"/>
+      <point x="415.0" y="591.0" type="line"/>
+      <point x="112.0" y="591.0" type="line"/>
+      <point x="109.0" y="576.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="396.0" y="465.0" type="line"/>
+      <point x="415.0" y="465.0" type="line"/>
+      <point x="436.0" y="591.0" type="line"/>
+      <point x="404.0" y="591.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

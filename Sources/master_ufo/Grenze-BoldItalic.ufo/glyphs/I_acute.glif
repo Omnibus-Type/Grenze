@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute" format="2">
+  <advance width="330.0"/>
+  <unicode hex="00CD"/>
+  <anchor x="125.0" y="0.0" name="bottom"/>
+  <anchor x="279.0" y="0.0" name="ogonek"/>
+  <anchor x="263.0" y="836.0" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="acutecomb.case" xOffset="34.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

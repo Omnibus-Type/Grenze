@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numero" format="2">
+  <advance width="805.0"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="338.0" y="-10.0" type="curve" smooth="yes"/>
+      <point x="343.0" y="-10.0"/>
+      <point x="375.0" y="-5.0"/>
+      <point x="375.0" y="-5.0" type="curve"/>
+      <point x="476.0" y="566.0" type="line"/>
+      <point x="533.0" y="571.0" type="line"/>
+      <point x="537.0" y="591.0" type="line"/>
+      <point x="389.0" y="591.0" type="line"/>
+      <point x="385.0" y="570.0" type="line"/>
+      <point x="445.0" y="564.0" type="line"/>
+      <point x="442.0" y="544.0" type="line"/>
+      <point x="352.0" y="18.0" type="line"/>
+      <point x="346.0" y="18.0" type="line"/>
+      <point x="346.0" y="18.0"/>
+      <point x="335.0" y="85.0"/>
+      <point x="325.0" y="123.0" type="curve" smooth="yes"/>
+      <point x="212.0" y="591.0" type="line"/>
+      <point x="112.0" y="591.0" type="line"/>
+      <point x="108.0" y="571.0" type="line"/>
+      <point x="165.0" y="566.0" type="line"/>
+      <point x="69.0" y="25.0" type="line"/>
+      <point x="11.0" y="20.0" type="line"/>
+      <point x="8.0" y="0.0" type="line"/>
+      <point x="156.0" y="0.0" type="line"/>
+      <point x="159.0" y="20.0" type="line"/>
+      <point x="100.0" y="27.0" type="line"/>
+      <point x="103.0" y="46.0" type="line"/>
+      <point x="187.0" y="542.0" type="line"/>
+      <point x="193.0" y="542.0" type="line"/>
+      <point x="193.0" y="542.0"/>
+      <point x="204.0" y="480.0"/>
+      <point x="213.0" y="447.0" type="curve" smooth="yes"/>
+      <point x="325.0" y="-2.0" type="line"/>
+      <point x="325.0" y="-2.0"/>
+      <point x="335.0" y="-10.0"/>
+    </contour>
+    <contour>
+      <point x="449.0" y="0.0" type="line"/>
+      <point x="705.0" y="0.0" type="line"/>
+      <point x="709.0" y="23.0" type="line"/>
+      <point x="453.0" y="23.0" type="line"/>
+    </contour>
+    <component base="ordmasculine" xOffset="378.0" yOffset="-238.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+    </dict>
+  </lib>
+</glyph>

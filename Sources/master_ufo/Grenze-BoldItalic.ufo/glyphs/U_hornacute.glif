@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhornacute" format="2">
+  <advance width="640.0"/>
+  <unicode hex="1EE8"/>
+  <anchor x="335.0" y="0.0" name="bottom"/>
+  <anchor x="593.0" y="-15.0" name="ogonek"/>
+  <anchor x="396.0" y="836.0" name="top"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="acutecomb.case" xOffset="167.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

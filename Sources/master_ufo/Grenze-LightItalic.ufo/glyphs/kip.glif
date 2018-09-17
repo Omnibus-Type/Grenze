@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kip" format="2">
+  <advance width="540.0"/>
+  <unicode hex="20AD"/>
+  <guideline x="126.0" y="258.0" angle="81.3226"/>
+  <guideline x="539.0" y="258.0" angle="81.3226"/>
+  <outline>
+    <contour>
+      <point x="408.0" y="0.0" type="curve"/>
+      <point x="483.0" y="0.0" type="line"/>
+      <point x="486.0" y="20.0" type="line"/>
+      <point x="431.0" y="25.0" type="line"/>
+      <point x="395.0" y="86.0"/>
+      <point x="321.0" y="209.0"/>
+      <point x="276.0" y="287.0" type="curve"/>
+      <point x="500.0" y="522.0" type="line"/>
+      <point x="557.0" y="527.0" type="line"/>
+      <point x="560.0" y="547.0" type="line"/>
+      <point x="412.0" y="547.0" type="line"/>
+      <point x="409.0" y="527.0" type="line"/>
+      <point x="463.0" y="520.0" type="line"/>
+      <point x="247.0" y="293.0" type="line"/>
+      <point x="245.0" y="278.0" type="line"/>
+      <point x="300.0" y="179.0"/>
+      <point x="375.0" y="54.0"/>
+    </contour>
+    <contour>
+      <point x="48.0" y="0.0" type="line"/>
+      <point x="196.0" y="0.0" type="line"/>
+      <point x="199.0" y="20.0" type="line"/>
+      <point x="140.0" y="27.0" type="line"/>
+      <point x="226.0" y="520.0" type="line"/>
+      <point x="289.0" y="527.0" type="line"/>
+      <point x="292.0" y="547.0" type="line"/>
+      <point x="144.0" y="547.0" type="line"/>
+      <point x="141.0" y="527.0" type="line"/>
+      <point x="197.0" y="522.0" type="line"/>
+      <point x="109.0" y="25.0" type="line"/>
+      <point x="51.0" y="20.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="99.0" y="275.0" type="line"/>
+      <point x="512.0" y="275.0" type="line"/>
+      <point x="515.0" y="298.0" type="line"/>
+      <point x="102.0" y="298.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
