@@ -28,7 +28,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2017-2018, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -40,9 +40,9 @@ This information should be distributed along with the Grenze fonts and any deriv
 
 ### Grenze is a typeface family that supports Unicode language range: 
 
-* Basic Latin 				U+0020-U+007E
+* Basic Latin 			U+0020-U+007E
 * Latin-1 Supplement 		U+00A0-U+00FF
-* Latin Extended-A 			U+0100-U+017F
+* Latin Extended-A 		U+0100-U+017F
 * Latin Extended Additional*	U+1E00-U+1EFF *(111/256)
 
 **Character map to support MS Codepages:**
@@ -63,11 +63,6 @@ This information should be distributed along with the Grenze fonts and any deriv
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Renata Polastri**  
-**E:** omnibus.type@gmail.com  
-**W:** http://www.omnibus-type.com  
-**D:** Designer
-
 **N:** **Oscar Guerrero Cañizares**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
@@ -77,6 +72,11 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development
+
+**N:** **Renata Polastri**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Designer
 
 **N:** **Yorlmar Campos**  
 **E:** omnibus.type@gmail.com  
