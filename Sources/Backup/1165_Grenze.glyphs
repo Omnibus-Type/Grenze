@@ -1,5 +1,5 @@
 {
-.appVersion = "1216";
+.appVersion = "1165";
 classes = (
 {
 automatic = 1;
@@ -46,7 +46,7 @@ nine.numr";
 name = numr;
 }
 );
-copyright = "Copyright (c) 2019, The Grenze Project Authors (https://github.com/Omnibus-Type/Grenze)";
+copyright = "Copyright 2018 The Grenze Project Authors (https://github.com/Omnibus-Type/Grenze), with Reserved Font Name \"Grenze\".";
 customParameters = (
 {
 name = trademark;
