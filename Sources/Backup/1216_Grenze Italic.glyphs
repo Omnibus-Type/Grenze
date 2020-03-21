@@ -1,5 +1,5 @@
 {
-.appVersion = "1303";
+.appVersion = "1216";
 classes = (
 {
 automatic = 1;
@@ -91,19 +91,11 @@ Tag = wght;
 );
 },
 {
-name = "Variable Font File Name";
-value = "GrenzeItalic[wgth]";
-},
-{
-name = "Variable Font Family Name";
-value = Grenze;
-},
-{
-name = "Variable Font Origin";
-value = "D9712079-C16A-42CB-8BA4-BD9ECFFACF10";
+name = "Variation Font Origin";
+value = "16B79A64-180D-495F-8650-CA27198DF3EF";
 }
 );
-date = "2020-03-21 17:53:17 +0000";
+date = "2017-07-03 17:31:40 +0000";
 designer = "Renata Polastri";
 designerURL = "www.omnibus-type.com";
 disablesNiceNames = 1;
@@ -83039,7 +83031,6 @@ manufacturerURL = "www.omnibus-type.com";
 unitsPerEm = 1000;
 userData = {
 GSDontShowVersionAlert = 1;
-LWPluginVersion = "1429";
 UFOFormat = 2;
 };
 versionMajor = 1;

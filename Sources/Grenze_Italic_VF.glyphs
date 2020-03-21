@@ -1,5 +1,8 @@
 {
 .appVersion = "1303";
+DisplayStrings = (
+O
+);
 classes = (
 {
 automatic = 1;
@@ -92,7 +95,7 @@ Tag = wght;
 },
 {
 name = "Variable Font File Name";
-value = "GrenzeItalic[wgth]";
+value = "GrenzeItalic[wght]";
 },
 {
 name = "Variable Font Family Name";
@@ -609,18 +612,15 @@ name = calt;
 fontMaster = (
 {
 alignmentZones = (
-"{628, 9}",
-"{594, 9}",
+"{750, 9}",
 "{591, 9}",
-"{556, 9}",
-"{454, 9}",
 "{440, 9}",
 "{0, -9}",
-"{-60, -9}",
-"{-166, -9}"
+"{-250, -9}"
 );
 ascender = 750;
 capHeight = 591;
+custom = Thin;
 customParameters = (
 {
 name = typoAscender;
@@ -677,25 +677,21 @@ horizontalStems = (
 25,
 29
 );
+iconName = Light;
 id = "16B79A64-180D-495F-8650-CA27198DF3EF";
 italicAngle = 10;
 verticalStems = (
 29
 );
-weight = Light;
-weightValue = 29;
 xHeight = 440;
 },
 {
 alignmentZones = (
-"{637, 9}",
+"{750, 9}",
 "{603, 9}",
-"{563, 9}",
-"{465, 9}",
 "{448, 9}",
 "{0, -9}",
-"{-81, -9}",
-"{-172, -9}"
+"{-250, -9}"
 );
 ascender = 750;
 capHeight = 603;
@@ -767,22 +763,20 @@ verticalStems = (
 91,
 99
 );
-weightValue = 88;
+weightValue = 400;
 xHeight = 448;
 },
 {
 alignmentZones = (
-"{656, 15}",
+"{750, 15}",
 "{613, 15}",
-"{579, 15}",
-"{479, 15}",
 "{462, 15}",
 "{0, -15}",
-"{-89, -15}",
-"{-171, -15}"
+"{-250, -15}"
 );
 ascender = 750;
 capHeight = 613;
+custom = Black;
 customParameters = (
 {
 name = typoAscender;
@@ -840,6 +834,7 @@ horizontalStems = (
 85,
 93
 );
+iconName = Bold;
 id = "E259E77F-022A-45EF-A0F1-1168268390B3";
 italicAngle = 10;
 verticalStems = (
@@ -848,8 +843,7 @@ verticalStems = (
 185,
 197
 );
-weight = Bold;
-weightValue = 167;
+weightValue = 900;
 xHeight = 462;
 }
 );
@@ -10617,7 +10611,7 @@ nodes = (
 "129 20 OFFCURVE",
 "84 86 OFFCURVE",
 "84 205 CURVE SMOOTH",
-"84 444 OFFCURVE",
+"84 443 OFFCURVE",
 "181 511 OFFCURVE",
 "223 540 CURVE SMOOTH",
 "246 556 OFFCURVE",
@@ -82421,13 +82415,8 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
-},
-{
-name = weightClass;
-value = 250;
 }
 );
-interpolationWeight = 29;
 instanceInterpolations = {
 "16B79A64-180D-495F-8650-CA27198DF3EF" = 1;
 };
@@ -82456,16 +82445,12 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
-},
-{
-name = weightClass;
-value = 275;
 }
 );
-interpolationWeight = 44;
+interpolationWeight = 200;
 instanceInterpolations = {
-"16B79A64-180D-495F-8650-CA27198DF3EF" = 0.74576;
-"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.25424;
+"16B79A64-180D-495F-8650-CA27198DF3EF" = 0.66667;
+"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.33333;
 };
 isItalic = 1;
 linkStyle = ExtraLight;
@@ -82494,10 +82479,10 @@ name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
 }
 );
-interpolationWeight = 66;
+interpolationWeight = 300;
 instanceInterpolations = {
-"16B79A64-180D-495F-8650-CA27198DF3EF" = 0.37288;
-"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.62712;
+"16B79A64-180D-495F-8650-CA27198DF3EF" = 0.33333;
+"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.66667;
 };
 isItalic = 1;
 linkStyle = Light;
@@ -82526,7 +82511,7 @@ name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
 }
 );
-interpolationWeight = 88;
+interpolationWeight = 400;
 instanceInterpolations = {
 "D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 1;
 };
@@ -82555,10 +82540,10 @@ name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
 }
 );
-interpolationWeight = 101;
+interpolationWeight = 500;
 instanceInterpolations = {
-"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.83544;
-"E259E77F-022A-45EF-A0F1-1168268390B3" = 0.16456;
+"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.8;
+"E259E77F-022A-45EF-A0F1-1168268390B3" = 0.2;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -82587,10 +82572,10 @@ name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
 }
 );
-interpolationWeight = 116;
+interpolationWeight = 600;
 instanceInterpolations = {
-"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.64557;
-"E259E77F-022A-45EF-A0F1-1168268390B3" = 0.35443;
+"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.6;
+"E259E77F-022A-45EF-A0F1-1168268390B3" = 0.4;
 };
 isItalic = 1;
 linkStyle = SemiBold;
@@ -82619,10 +82604,10 @@ name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
 }
 );
-interpolationWeight = 133;
+interpolationWeight = 700;
 instanceInterpolations = {
-"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.43038;
-"E259E77F-022A-45EF-A0F1-1168268390B3" = 0.56962;
+"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.4;
+"E259E77F-022A-45EF-A0F1-1168268390B3" = 0.6;
 };
 isBold = 1;
 isItalic = 1;
@@ -82651,10 +82636,10 @@ name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
 }
 );
-interpolationWeight = 150;
+interpolationWeight = 800;
 instanceInterpolations = {
-"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.21519;
-"E259E77F-022A-45EF-A0F1-1168268390B3" = 0.78481;
+"D9712079-C16A-42CB-8BA4-BD9ECFFACF10" = 0.2;
+"E259E77F-022A-45EF-A0F1-1168268390B3" = 0.8;
 };
 isItalic = 1;
 linkStyle = ExtraBold;
@@ -82683,7 +82668,7 @@ name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
 }
 );
-interpolationWeight = 167;
+interpolationWeight = 900;
 instanceInterpolations = {
 "E259E77F-022A-45EF-A0F1-1168268390B3" = 1;
 };
