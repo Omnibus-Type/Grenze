@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Udieresisgrave" format="2">
-  <advance width="597.0"/>
+  <advance width="597"/>
   <unicode hex="01DB"/>
-  <anchor x="318.0" y="0.0" name="bottom"/>
-  <anchor x="526.0" y="0.0" name="ogonek"/>
-  <anchor x="296.0" y="947.0" name="top"/>
+  <anchor x="318" y="0" name="bottom"/>
+  <anchor x="526" y="0" name="ogonek"/>
+  <anchor x="296" y="947" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="dieresiscomb.case" xOffset="162.0"/>
-    <component base="gravecomb.case" xOffset="186.0" yOffset="157.0"/>
+    <component base="dieresiscomb.case" xOffset="162"/>
+    <component base="gravecomb.case" xOffset="186" yOffset="157"/>
   </outline>
 </glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb" format="2">
+  <unicode hex="030A"/>
+  <anchor x="113" y="462" name="_top"/>
+  <anchor x="113" y="710" name="top"/>
+  <outline>
+    <component base="ring"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>226</integer>
+    </dict>
+  </lib>
+</glyph>

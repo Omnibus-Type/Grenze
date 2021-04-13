@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb.case" format="2">
-  <anchor x="46.0" y="603.0" name="_top"/>
-  <anchor x="46.0" y="760.0" name="top"/>
+  <anchor x="46" y="603" name="_top"/>
+  <anchor x="46" y="760" name="top"/>
   <outline>
     <contour>
-      <point x="7.0" y="659.0" type="line"/>
-      <point x="87.0" y="659.0" type="line"/>
-      <point x="92.0" y="746.0" type="line"/>
-      <point x="77.0" y="768.0" type="line"/>
-      <point x="0.0" y="763.0" type="line"/>
+      <point x="7" y="659" type="line"/>
+      <point x="87" y="659" type="line"/>
+      <point x="92" y="746" type="line"/>
+      <point x="77" y="768" type="line"/>
+      <point x="0" y="763" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <real>92.0</real>
+      <integer>92</integer>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashlongcomb" format="2">
+  <unicode hex="0338"/>
+  <anchor x="182" y="208" name="_center"/>
+  <outline>
+    <contour>
+      <point x="24" y="-110" type="line"/>
+      <point x="83" y="-103" type="line"/>
+      <point x="363" y="501" type="line"/>
+      <point x="342" y="525" type="line"/>
+      <point x="280" y="518" type="line"/>
+      <point x="0" y="-86" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>363</integer>
+    </dict>
+  </lib>
+</glyph>

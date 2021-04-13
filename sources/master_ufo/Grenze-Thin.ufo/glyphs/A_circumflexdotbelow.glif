@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflexdotbelow" format="2">
+  <advance width="538"/>
+  <unicode hex="1EAC"/>
+  <anchor x="265" y="-154" name="bottom"/>
+  <anchor x="432" y="0" name="ogonek"/>
+  <anchor x="266" y="750" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dotbelowcomb.case" xOffset="245"/>
+    <component base="circumflexcomb.case" xOffset="164"/>
+  </outline>
+</glyph>

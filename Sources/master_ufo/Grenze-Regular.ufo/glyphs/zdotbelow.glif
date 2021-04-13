@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zdotbelow" format="2">
-  <advance width="393.0"/>
+  <advance width="393"/>
   <unicode hex="1E93"/>
-  <anchor x="207.0" y="-169.0" name="bottom"/>
-  <anchor x="193.0" y="448.0" name="top"/>
+  <anchor x="207" y="-169" name="bottom"/>
+  <anchor x="193" y="448" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="dotbelowcomb" xOffset="161.0"/>
+    <component base="dotbelowcomb" xOffset="161"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
-        <integer>-1</integer>
-        <integer>0</integer>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>z</string>
+        </dict>
       </array>
     </dict>
   </lib>

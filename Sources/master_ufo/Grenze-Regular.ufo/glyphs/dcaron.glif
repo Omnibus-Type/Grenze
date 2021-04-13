@@ -1,24 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcaron" format="2">
-  <advance width="540.0"/>
+  <advance width="540"/>
   <unicode hex="010F"/>
-  <anchor x="234.0" y="0.0" name="bottom"/>
-  <anchor x="301.0" y="516.0" name="center"/>
-  <anchor x="224.0" y="750.0" name="top"/>
-  <anchor x="438.0" y="448.0" name="topright"/>
+  <anchor x="234" y="0" name="bottom"/>
+  <anchor x="301" y="516" name="center"/>
+  <anchor x="224" y="750" name="top"/>
+  <anchor x="438" y="448" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="caroncomb.alt" xOffset="458.0"/>
+    <component base="caroncomb.alt" xOffset="458"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caroncomb.alt</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>o</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

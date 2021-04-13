@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ddotbelow" format="2">
+  <advance width="512"/>
+  <unicode hex="1E0C"/>
+  <anchor x="256" y="-154" name="bottom"/>
+  <anchor x="144" y="308" name="center"/>
+  <anchor x="254" y="591" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="dotbelowcomb.case" xOffset="236"/>
+  </outline>
+</glyph>

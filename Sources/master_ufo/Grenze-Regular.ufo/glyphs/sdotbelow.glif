@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sdotbelow" format="2">
-  <advance width="363.0"/>
+  <advance width="363"/>
   <unicode hex="1E63"/>
-  <anchor x="186.0" y="-169.0" name="bottom"/>
-  <anchor x="190.0" y="448.0" name="top"/>
+  <anchor x="186" y="-169" name="bottom"/>
+  <anchor x="190" y="448" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="dotbelowcomb" xOffset="140.0"/>
+    <component base="dotbelowcomb" xOffset="140"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
-        <integer>-1</integer>
-        <integer>0</integer>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>s</string>
+        </dict>
       </array>
     </dict>
   </lib>

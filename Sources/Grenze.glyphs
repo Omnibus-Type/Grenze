@@ -1,5 +1,5 @@
 {
-.appVersion = "1303";
+.appVersion = "1354";
 classes = (
 {
 automatic = 1;
@@ -101,9 +101,25 @@ value = Grenze;
 {
 name = "Variable Font Origin";
 value = "555729A4-F539-4650-9C4F-3880CB033E7B";
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+100 = 100;
+200 = 200;
+300 = 300;
+400 = 400;
+500 = 500;
+600 = 600;
+700 = 700;
+800 = 800;
+900 = 900;
+};
+};
 }
 );
-date = "2020-03-21 17:53:15 +0000";
+date = "2021-04-13 14:16:44 +0000";
 designer = "Renata Polastri";
 designerURL = "www.omnibus-type.com";
 disablesNiceNames = 1;
@@ -75739,8 +75755,9 @@ manufacturerURL = "www.omnibus-type.com";
 unitsPerEm = 1000;
 userData = {
 GSDontShowVersionAlert = 1;
+LWPluginVersion = "1429";
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="56" y="440" name="_top"/>
+  <anchor x="56" y="678" name="top"/>
+  <outline>
+    <contour>
+      <point x="34" y="520" type="line"/>
+      <point x="97" y="553"/>
+      <point x="108" y="593"/>
+      <point x="111" y="603" type="curve"/>
+      <point x="112" y="607"/>
+      <point x="113" y="615"/>
+      <point x="113" y="619" type="curve" smooth="yes"/>
+      <point x="113" y="658"/>
+      <point x="83" y="678"/>
+      <point x="44" y="678" type="curve" smooth="yes"/>
+      <point x="30" y="678"/>
+      <point x="16" y="676"/>
+      <point x="0" y="671" type="curve"/>
+      <point x="5" y="651" type="line"/>
+      <point x="15" y="654"/>
+      <point x="25" y="656"/>
+      <point x="35" y="656" type="curve" smooth="yes"/>
+      <point x="62" y="656"/>
+      <point x="86" y="644"/>
+      <point x="86" y="614" type="curve" smooth="yes"/>
+      <point x="86" y="589"/>
+      <point x="66" y="559"/>
+      <point x="25" y="535" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>113</integer>
+    </dict>
+  </lib>
+</glyph>

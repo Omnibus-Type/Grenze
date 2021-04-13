@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odotaccentmacron" format="2">
+  <advance width="610"/>
+  <unicode hex="0230"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="296" y="296" name="center"/>
+  <anchor x="318" y="0" name="ogonek"/>
+  <anchor x="313" y="944" name="top"/>
+  <anchor x="404" y="612" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotaccentcomb.case" xOffset="229"/>
+    <component base="macroncomb.case" xOffset="156" yOffset="163"/>
+  </outline>
+</glyph>

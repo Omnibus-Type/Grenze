@@ -1,344 +1,338 @@
-<?xml version='1.0' encoding='utf-8'?>
-<designspace format="4.0">
-    <axes>
-        <axis default="400" maximum="900" minimum="250" name="Weight" tag="wght">
-            <map input="250" output="29" />
-            <map input="275" output="45" />
-            <map input="300" output="68" />
-            <map input="400" output="91" />
-            <map input="500" output="104" />
-            <map input="600" output="120" />
-            <map input="700" output="138" />
-            <map input="800" output="156" />
-            <map input="900" output="173" />
-        </axis>
-    </axes>
-    <sources>
-        <source familyname="Grenze" filename="Grenze-Light.ufo" name="Grenze Light" stylename="Light">
-            <location>
-                <dimension name="Weight" xvalue="29" />
-            </location>
-        </source>
-        <source familyname="Grenze" filename="Grenze-Regular.ufo" name="Grenze Regular" stylename="Regular">
-            <lib copy="1" />
-            <groups copy="1" />
-            <features copy="1" />
-            <info copy="1" />
-            <location>
-                <dimension name="Weight" xvalue="91" />
-            </location>
-        </source>
-        <source familyname="Grenze" filename="Grenze-Bold.ufo" name="Grenze Bold" stylename="Bold">
-            <location>
-                <dimension name="Weight" xvalue="173" />
-            </location>
-        </source>
-    </sources>
-    <instances>
-        <instance familyname="Grenze" filename="../instance_ufo/Grenze-Thin.ufo" name="Grenze Thin" stylemapfamilyname="Grenze Thin" stylemapstylename="regular" stylename="Thin">
-            <location>
-                <dimension name="Weight" xvalue="29" />
-            </location>
-            <kerning />
-            <info />
-            <lib>
-                <dict>
-                    <key>com.schriftgestaltung.customParameters</key>
-                    <array>
-                        <array>
-                            <string>panose</string>
-                            <array>
-                                <integer>2</integer>
-                                <integer>14</integer>
-                                <integer>2</integer>
-                                <integer>4</integer>
-                                <integer>6</integer>
-                                <integer>4</integer>
-                                <integer>3</integer>
-                                <integer>5</integer>
-                                <integer>4</integer>
-                                <integer>4</integer>
-                            </array>
-                        </array>
-                        <array>
-                            <string>TTFAutohint options</string>
-                            <string>--default-script=latn --windows-compatibility</string>
-                        </array>
-                    </array>
-                </dict>
-            </lib>
-        </instance>
-        <instance familyname="Grenze" filename="../instance_ufo/Grenze-ExtraLight.ufo" name="Grenze ExtraLight" stylemapfamilyname="Grenze ExtraLight" stylemapstylename="regular" stylename="ExtraLight">
-            <location>
-                <dimension name="Weight" xvalue="45" />
-            </location>
-            <kerning />
-            <info />
-            <lib>
-                <dict>
-                    <key>com.schriftgestaltung.customParameters</key>
-                    <array>
-                        <array>
-                            <string>panose</string>
-                            <array>
-                                <integer>2</integer>
-                                <integer>14</integer>
-                                <integer>3</integer>
-                                <integer>4</integer>
-                                <integer>6</integer>
-                                <integer>4</integer>
-                                <integer>3</integer>
-                                <integer>5</integer>
-                                <integer>4</integer>
-                                <integer>4</integer>
-                            </array>
-                        </array>
-                        <array>
-                            <string>TTFAutohint options</string>
-                            <string>--default-script=latn --windows-compatibility</string>
-                        </array>
-                    </array>
-                </dict>
-            </lib>
-        </instance>
-        <instance familyname="Grenze" filename="../instance_ufo/Grenze-Light.ufo" name="Grenze Light" stylemapfamilyname="Grenze Light" stylemapstylename="regular" stylename="Light">
-            <location>
-                <dimension name="Weight" xvalue="68" />
-            </location>
-            <kerning />
-            <info />
-            <lib>
-                <dict>
-                    <key>com.schriftgestaltung.customParameters</key>
-                    <array>
-                        <array>
-                            <string>panose</string>
-                            <array>
-                                <integer>2</integer>
-                                <integer>14</integer>
-                                <integer>4</integer>
-                                <integer>4</integer>
-                                <integer>6</integer>
-                                <integer>4</integer>
-                                <integer>3</integer>
-                                <integer>5</integer>
-                                <integer>4</integer>
-                                <integer>4</integer>
-                            </array>
-                        </array>
-                        <array>
-                            <string>TTFAutohint options</string>
-                            <string>--default-script=latn --windows-compatibility</string>
-                        </array>
-                    </array>
-                </dict>
-            </lib>
-        </instance>
-        <instance familyname="Grenze" filename="../instance_ufo/Grenze-Regular.ufo" name="Grenze Regular" stylemapfamilyname="Grenze" stylemapstylename="regular" stylename="Regular">
-            <location>
-                <dimension name="Weight" xvalue="91" />
-            </location>
-            <kerning />
-            <info />
-            <lib>
-                <dict>
-                    <key>com.schriftgestaltung.customParameters</key>
-                    <array>
-                        <array>
-                            <string>panose</string>
-                            <array>
-                                <integer>2</integer>
-                                <integer>14</integer>
-                                <integer>5</integer>
-                                <integer>4</integer>
-                                <integer>6</integer>
-                                <integer>4</integer>
-                                <integer>3</integer>
-                                <integer>5</integer>
-                                <integer>4</integer>
-                                <integer>4</integer>
-                            </array>
-                        </array>
-                        <array>
-                            <string>TTFAutohint options</string>
-                            <string>--default-script=latn --windows-compatibility</string>
-                        </array>
-                    </array>
-                </dict>
-            </lib>
-        </instance>
-        <instance familyname="Grenze" filename="../instance_ufo/Grenze-Medium.ufo" name="Grenze Medium" stylemapfamilyname="Grenze Medium" stylemapstylename="regular" stylename="Medium">
-            <location>
-                <dimension name="Weight" xvalue="104" />
-            </location>
-            <kerning />
-            <info />
-            <lib>
-                <dict>
-                    <key>com.schriftgestaltung.customParameters</key>
-                    <array>
-                        <array>
-                            <string>panose</string>
-                            <array>
-                                <integer>2</integer>
-                                <integer>14</integer>
-                                <integer>6</integer>
-                                <integer>4</integer>
-                                <integer>6</integer>
-                                <integer>4</integer>
-                                <integer>3</integer>
-                                <integer>5</integer>
-                                <integer>4</integer>
-                                <integer>4</integer>
-                            </array>
-                        </array>
-                        <array>
-                            <string>TTFAutohint options</string>
-                            <string>--default-script=latn --windows-compatibility</string>
-                        </array>
-                    </array>
-                </dict>
-            </lib>
-        </instance>
-        <instance familyname="Grenze" filename="../instance_ufo/Grenze-SemiBold.ufo" name="Grenze SemiBold" stylemapfamilyname="Grenze SemiBold" stylemapstylename="regular" stylename="SemiBold">
-            <location>
-                <dimension name="Weight" xvalue="120" />
-            </location>
-            <kerning />
-            <info />
-            <lib>
-                <dict>
-                    <key>com.schriftgestaltung.customParameters</key>
-                    <array>
-                        <array>
-                            <string>panose</string>
-                            <array>
-                                <integer>2</integer>
-                                <integer>14</integer>
-                                <integer>7</integer>
-                                <integer>4</integer>
-                                <integer>6</integer>
-                                <integer>4</integer>
-                                <integer>3</integer>
-                                <integer>5</integer>
-                                <integer>4</integer>
-                                <integer>4</integer>
-                            </array>
-                        </array>
-                        <array>
-                            <string>TTFAutohint options</string>
-                            <string>--default-script=latn --windows-compatibility</string>
-                        </array>
-                    </array>
-                </dict>
-            </lib>
-        </instance>
-        <instance familyname="Grenze" filename="../instance_ufo/Grenze-Bold.ufo" name="Grenze Bold" stylemapfamilyname="Grenze" stylemapstylename="bold" stylename="Bold">
-            <location>
-                <dimension name="Weight" xvalue="138" />
-            </location>
-            <kerning />
-            <info />
-            <lib>
-                <dict>
-                    <key>com.schriftgestaltung.customParameters</key>
-                    <array>
-                        <array>
-                            <string>panose</string>
-                            <array>
-                                <integer>2</integer>
-                                <integer>14</integer>
-                                <integer>8</integer>
-                                <integer>4</integer>
-                                <integer>6</integer>
-                                <integer>4</integer>
-                                <integer>3</integer>
-                                <integer>5</integer>
-                                <integer>4</integer>
-                                <integer>4</integer>
-                            </array>
-                        </array>
-                        <array>
-                            <string>TTFAutohint options</string>
-                            <string>--default-script=latn --windows-compatibility</string>
-                        </array>
-                    </array>
-                </dict>
-            </lib>
-        </instance>
-        <instance familyname="Grenze" filename="../instance_ufo/Grenze-ExtraBold.ufo" name="Grenze ExtraBold" stylemapfamilyname="Grenze ExtraBold" stylemapstylename="regular" stylename="ExtraBold">
-            <location>
-                <dimension name="Weight" xvalue="156" />
-            </location>
-            <kerning />
-            <info />
-            <lib>
-                <dict>
-                    <key>com.schriftgestaltung.customParameters</key>
-                    <array>
-                        <array>
-                            <string>panose</string>
-                            <array>
-                                <integer>2</integer>
-                                <integer>14</integer>
-                                <integer>9</integer>
-                                <integer>4</integer>
-                                <integer>6</integer>
-                                <integer>4</integer>
-                                <integer>3</integer>
-                                <integer>5</integer>
-                                <integer>4</integer>
-                                <integer>4</integer>
-                            </array>
-                        </array>
-                        <array>
-                            <string>TTFAutohint options</string>
-                            <string>--default-script=latn --windows-compatibility</string>
-                        </array>
-                    </array>
-                </dict>
-            </lib>
-        </instance>
-        <instance familyname="Grenze" filename="../instance_ufo/Grenze-Black.ufo" name="Grenze Black" stylemapfamilyname="Grenze Black" stylemapstylename="regular" stylename="Black">
-            <location>
-                <dimension name="Weight" xvalue="173" />
-            </location>
-            <kerning />
-            <info />
-            <lib>
-                <dict>
-                    <key>com.schriftgestaltung.customParameters</key>
-                    <array>
-                        <array>
-                            <string>panose</string>
-                            <array>
-                                <integer>2</integer>
-                                <integer>14</integer>
-                                <integer>10</integer>
-                                <integer>4</integer>
-                                <integer>6</integer>
-                                <integer>4</integer>
-                                <integer>3</integer>
-                                <integer>5</integer>
-                                <integer>4</integer>
-                                <integer>4</integer>
-                            </array>
-                        </array>
-                        <array>
-                            <string>TTFAutohint options</string>
-                            <string>--default-script=latn --windows-compatibility</string>
-                        </array>
-                    </array>
-                </dict>
-            </lib>
-        </instance>
-    </instances>
-    <lib>
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="Grenze-Thin.ufo" name="Grenze Thin" familyname="Grenze" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Grenze-Regular.ufo" name="Grenze Regular" familyname="Grenze" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Grenze-Black.ufo" name="Grenze Black" familyname="Grenze" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Grenze Thin" familyname="Grenze" stylename="Thin" filename="instance_ufo/Grenze-Thin.ufo" stylemapfamilyname="Grenze Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
         <dict>
-            <key>GSDontShowVersionAlert</key>
-            <integer>1</integer>
-            <key>UFOFormat</key>
-            <integer>2</integer>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>14</integer>
+                <integer>2</integer>
+                <integer>4</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
         </dict>
-    </lib>
+      </lib>
+    </instance>
+    <instance name="Grenze ExtraLight" familyname="Grenze" stylename="ExtraLight" filename="instance_ufo/Grenze-ExtraLight.ufo" stylemapfamilyname="Grenze ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>14</integer>
+                <integer>3</integer>
+                <integer>4</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Grenze Light" familyname="Grenze" stylename="Light" filename="instance_ufo/Grenze-Light.ufo" stylemapfamilyname="Grenze Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>14</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Grenze Regular" familyname="Grenze" stylename="Regular" filename="instance_ufo/Grenze-Regular.ufo" stylemapfamilyname="Grenze" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>14</integer>
+                <integer>5</integer>
+                <integer>4</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Grenze Medium" familyname="Grenze" stylename="Medium" filename="instance_ufo/Grenze-Medium.ufo" stylemapfamilyname="Grenze Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>14</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Grenze SemiBold" familyname="Grenze" stylename="SemiBold" filename="instance_ufo/Grenze-SemiBold.ufo" stylemapfamilyname="Grenze SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>14</integer>
+                <integer>7</integer>
+                <integer>4</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Grenze Bold" familyname="Grenze" stylename="Bold" filename="instance_ufo/Grenze-Bold.ufo" stylemapfamilyname="Grenze" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>14</integer>
+                <integer>8</integer>
+                <integer>4</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Grenze ExtraBold" familyname="Grenze" stylename="ExtraBold" filename="instance_ufo/Grenze-ExtraBold.ufo" stylemapfamilyname="Grenze ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>14</integer>
+                <integer>9</integer>
+                <integer>4</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Grenze Black" familyname="Grenze" stylename="Black" filename="instance_ufo/Grenze-Black.ufo" stylemapfamilyname="Grenze Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>14</integer>
+                <integer>10</integer>
+                <integer>4</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>5</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDontShowVersionAlert</key>
+      <integer>1</integer>
+      <key>UFOFormat</key>
+      <integer>2</integer>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>apostrophecomb</string>
+      </array>
+    </dict>
+  </lib>
 </designspace>

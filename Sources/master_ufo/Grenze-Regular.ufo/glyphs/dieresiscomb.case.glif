@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb.case" format="2">
-  <anchor x="133.0" y="603.0" name="_top"/>
-  <anchor x="134.0" y="760.0" name="top"/>
+  <anchor x="133" y="603" name="_top"/>
+  <anchor x="134" y="760" name="top"/>
   <outline>
     <contour>
-      <point x="182.0" y="660.0" type="line"/>
-      <point x="262.0" y="660.0" type="line"/>
-      <point x="267.0" y="747.0" type="line"/>
-      <point x="252.0" y="769.0" type="line"/>
-      <point x="175.0" y="764.0" type="line"/>
+      <point x="182" y="660" type="line"/>
+      <point x="262" y="660" type="line"/>
+      <point x="267" y="747" type="line"/>
+      <point x="252" y="769" type="line"/>
+      <point x="175" y="764" type="line"/>
     </contour>
     <contour>
-      <point x="7.0" y="660.0" type="line"/>
-      <point x="87.0" y="660.0" type="line"/>
-      <point x="92.0" y="747.0" type="line"/>
-      <point x="77.0" y="769.0" type="line"/>
-      <point x="0.0" y="764.0" type="line"/>
+      <point x="7" y="660" type="line"/>
+      <point x="87" y="660" type="line"/>
+      <point x="92" y="747" type="line"/>
+      <point x="77" y="769" type="line"/>
+      <point x="0" y="764" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <real>267.0</real>
+      <integer>267</integer>
     </dict>
   </lib>
 </glyph>

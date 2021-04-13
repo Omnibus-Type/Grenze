@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breveinvertedcomb.case" format="2">
-  <anchor x="146.0" y="603.0" name="_top"/>
-  <anchor x="146.0" y="787.0" name="top"/>
+  <anchor x="146" y="603" name="_top"/>
+  <anchor x="146" y="787" name="top"/>
   <outline>
     <contour>
-      <point x="28.0" y="662.0" type="line"/>
-      <point x="61.0" y="696.0"/>
-      <point x="98.0" y="722.0"/>
-      <point x="146.0" y="722.0" type="curve" smooth="yes"/>
-      <point x="194.0" y="722.0"/>
-      <point x="231.0" y="696.0"/>
-      <point x="264.0" y="662.0" type="curve"/>
-      <point x="292.0" y="687.0" type="line"/>
-      <point x="272.0" y="727.0"/>
-      <point x="211.0" y="787.0"/>
-      <point x="146.0" y="787.0" type="curve" smooth="yes"/>
-      <point x="81.0" y="787.0"/>
-      <point x="20.0" y="727.0"/>
-      <point x="0.0" y="687.0" type="curve"/>
+      <point x="28" y="662" type="line"/>
+      <point x="61" y="696"/>
+      <point x="98" y="722"/>
+      <point x="146" y="722" type="curve" smooth="yes"/>
+      <point x="194" y="722"/>
+      <point x="231" y="696"/>
+      <point x="264" y="662" type="curve"/>
+      <point x="292" y="687" type="line"/>
+      <point x="272" y="727"/>
+      <point x="211" y="787"/>
+      <point x="146" y="787" type="curve" smooth="yes"/>
+      <point x="81" y="787"/>
+      <point x="20" y="727"/>
+      <point x="0" y="687" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <real>292.0</real>
+      <integer>292</integer>
     </dict>
   </lib>
 </glyph>

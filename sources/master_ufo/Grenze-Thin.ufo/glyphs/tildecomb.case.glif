@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <anchor x="122" y="591" name="_top"/>
+  <anchor x="126" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="196" y="679" type="curve" smooth="yes"/>
+      <point x="210" y="679"/>
+      <point x="236" y="701"/>
+      <point x="252" y="718" type="curve"/>
+      <point x="241" y="730" type="line"/>
+      <point x="223" y="715"/>
+      <point x="211" y="706"/>
+      <point x="192" y="706" type="curve" smooth="yes"/>
+      <point x="159" y="706"/>
+      <point x="99" y="732"/>
+      <point x="56" y="732" type="curve" smooth="yes"/>
+      <point x="42" y="732"/>
+      <point x="16" y="711"/>
+      <point x="0" y="693" type="curve"/>
+      <point x="11" y="681" type="line"/>
+      <point x="29" y="696"/>
+      <point x="41" y="705"/>
+      <point x="60" y="705" type="curve" smooth="yes"/>
+      <point x="93" y="705"/>
+      <point x="153" y="679"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>252</integer>
+    </dict>
+  </lib>
+</glyph>

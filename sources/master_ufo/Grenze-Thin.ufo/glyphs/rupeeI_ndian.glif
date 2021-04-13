@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupeeIndian" format="2">
+  <advance width="453"/>
+  <unicode hex="20B9"/>
+  <guideline x="64" y="591" angle="90"/>
+  <guideline x="374" y="291" angle="83.1592"/>
+  <outline>
+    <contour>
+      <point x="64" y="221" type="line"/>
+      <point x="150" y="221" type="line" smooth="yes"/>
+      <point x="254" y="221"/>
+      <point x="305" y="285"/>
+      <point x="305" y="383" type="curve" smooth="yes"/>
+      <point x="305" y="524"/>
+      <point x="234" y="547"/>
+      <point x="153" y="547" type="curve" smooth="yes"/>
+      <point x="64" y="547" type="line"/>
+      <point x="64" y="524" type="line"/>
+      <point x="162" y="524" type="line" smooth="yes"/>
+      <point x="240" y="524"/>
+      <point x="275" y="487"/>
+      <point x="275" y="381" type="curve" smooth="yes"/>
+      <point x="275" y="270"/>
+      <point x="219" y="244"/>
+      <point x="160" y="244" type="curve" smooth="yes"/>
+      <point x="64" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="267" y="0" type="curve"/>
+      <point x="341" y="0" type="line"/>
+      <point x="341" y="20" type="line"/>
+      <point x="288" y="25" type="line"/>
+      <point x="253" y="57"/>
+      <point x="165" y="149"/>
+      <point x="98" y="223" type="curve"/>
+      <point x="64" y="221" type="line"/>
+      <point x="141" y="135"/>
+      <point x="223" y="46"/>
+    </contour>
+    <contour>
+      <point x="64" y="404" type="line"/>
+      <point x="417" y="404" type="line"/>
+      <point x="420" y="427" type="line"/>
+      <point x="64" y="427" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="524" type="line"/>
+      <point x="432" y="524" type="line"/>
+      <point x="435" y="547" type="line"/>
+      <point x="64" y="547" type="line"/>
+    </contour>
+  </outline>
+</glyph>

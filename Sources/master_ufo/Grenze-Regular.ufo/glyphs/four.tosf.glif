@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.tosf" format="2">
-  <advance width="500.0"/>
+  <advance width="500"/>
   <outline>
-    <component base="four" xOffset="19.0"/>
+    <component base="four" xOffset="19"/>
   </outline>
 </glyph>

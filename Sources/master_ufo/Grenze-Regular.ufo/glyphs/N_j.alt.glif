@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nj.alt" format="2">
-  <advance width="816.0"/>
-  <anchor x="298.0" y="0.0" name="bottom"/>
-  <anchor x="288.0" y="603.0" name="top"/>
+  <advance width="816"/>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="288" y="603" name="top"/>
   <outline>
     <component base="N.alt"/>
-    <component base="j" xOffset="597.0"/>
+    <component base="j" xOffset="597"/>
   </outline>
 </glyph>

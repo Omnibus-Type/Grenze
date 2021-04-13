@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="389"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="156" y="144" type="curve" smooth="yes"/>
+      <point x="158" y="144"/>
+      <point x="164" y="145"/>
+      <point x="169" y="146" type="curve"/>
+      <point x="175" y="247"/>
+      <point x="185" y="261"/>
+      <point x="239" y="313" type="curve" smooth="yes"/>
+      <point x="287" y="359"/>
+      <point x="338" y="415"/>
+      <point x="338" y="487" type="curve" smooth="yes"/>
+      <point x="338" y="571"/>
+      <point x="300" y="599"/>
+      <point x="215" y="599" type="curve" smooth="yes"/>
+      <point x="177" y="599"/>
+      <point x="129" y="594"/>
+      <point x="73" y="588" type="curve"/>
+      <point x="96" y="562" type="line"/>
+      <point x="144" y="567"/>
+      <point x="205" y="574"/>
+      <point x="232" y="574" type="curve" smooth="yes"/>
+      <point x="286" y="574"/>
+      <point x="307" y="534"/>
+      <point x="307" y="489" type="curve" smooth="yes"/>
+      <point x="307" y="418"/>
+      <point x="260" y="373"/>
+      <point x="214" y="327" type="curve" smooth="yes"/>
+      <point x="177" y="290"/>
+      <point x="146" y="256"/>
+      <point x="148" y="214" type="curve" smooth="yes"/>
+      <point x="151" y="149" type="line" smooth="yes"/>
+      <point x="151" y="148"/>
+      <point x="155" y="144"/>
+    </contour>
+    <contour>
+      <point x="149" y="-9" type="curve" smooth="yes"/>
+      <point x="157" y="-9"/>
+      <point x="166" y="-8"/>
+      <point x="176" y="-5" type="curve"/>
+      <point x="171" y="68" type="line"/>
+      <point x="149" y="68" type="line"/>
+      <point x="139" y="2" type="line" smooth="yes"/>
+      <point x="139" y="0"/>
+      <point x="147" y="-9"/>
+    </contour>
+    <contour>
+      <point x="87" y="437" type="line"/>
+      <point x="104" y="437" type="line"/>
+      <point x="105" y="588" type="line"/>
+      <point x="74" y="588" type="line"/>
+    </contour>
+  </outline>
+</glyph>

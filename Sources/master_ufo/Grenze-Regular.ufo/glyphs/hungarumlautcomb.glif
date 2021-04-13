@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb" format="2">
   <unicode hex="030B"/>
-  <anchor x="157.0" y="448.0" name="_top"/>
-  <anchor x="157.0" y="680.0" name="top"/>
+  <anchor x="157" y="448" name="_top"/>
+  <anchor x="157" y="680" name="top"/>
   <outline>
     <component base="hungarumlaut"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <real>334.0</real>
+      <integer>334</integer>
     </dict>
   </lib>
 </glyph>

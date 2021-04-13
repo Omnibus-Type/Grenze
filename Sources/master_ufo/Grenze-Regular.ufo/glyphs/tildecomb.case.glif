@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb.case" format="2">
-  <anchor x="150.0" y="603.0" name="_top"/>
-  <anchor x="153.0" y="750.0" name="top"/>
+  <anchor x="150" y="603" name="_top"/>
+  <anchor x="153" y="750" name="top"/>
   <outline>
     <contour>
-      <point x="214.0" y="657.0" type="curve" smooth="yes"/>
-      <point x="239.0" y="657.0"/>
-      <point x="290.0" y="710.0"/>
-      <point x="305.0" y="732.0" type="curve"/>
-      <point x="271.0" y="761.0" type="line"/>
-      <point x="260.0" y="748.0"/>
-      <point x="232.0" y="724.0"/>
-      <point x="222.0" y="724.0" type="curve" smooth="yes"/>
-      <point x="202.0" y="724.0"/>
-      <point x="129.0" y="765.0"/>
-      <point x="89.0" y="765.0" type="curve" smooth="yes"/>
-      <point x="64.0" y="765.0"/>
-      <point x="17.0" y="709.0"/>
-      <point x="0.0" y="687.0" type="curve"/>
-      <point x="32.0" y="660.0" type="line"/>
-      <point x="40.0" y="666.0"/>
-      <point x="77.0" y="694.0"/>
-      <point x="87.0" y="694.0" type="curve" smooth="yes"/>
-      <point x="107.0" y="694.0"/>
-      <point x="162.0" y="657.0"/>
+      <point x="214" y="657" type="curve" smooth="yes"/>
+      <point x="239" y="657"/>
+      <point x="290" y="710"/>
+      <point x="305" y="732" type="curve"/>
+      <point x="271" y="761" type="line"/>
+      <point x="260" y="748"/>
+      <point x="232" y="724"/>
+      <point x="222" y="724" type="curve" smooth="yes"/>
+      <point x="202" y="724"/>
+      <point x="129" y="765"/>
+      <point x="89" y="765" type="curve" smooth="yes"/>
+      <point x="64" y="765"/>
+      <point x="17" y="709"/>
+      <point x="0" y="687" type="curve"/>
+      <point x="32" y="660" type="line"/>
+      <point x="40" y="666"/>
+      <point x="77" y="694"/>
+      <point x="87" y="694" type="curve" smooth="yes"/>
+      <point x="107" y="694"/>
+      <point x="162" y="657"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <real>305.0</real>
+      <integer>305</integer>
     </dict>
   </lib>
 </glyph>
