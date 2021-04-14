@@ -18,8 +18,8 @@
       <point x="68" y="430"/>
       <point x="37" y="418" type="curve"/>
       <point x="37" y="348" type="line"/>
-      <point x="75" y="350"/>
-      <point x="197" y="356"/>
+      <point x="65" y="349"/>
+      <point x="145" y="353"/>
       <point x="197" y="356" type="curve"/>
       <point x="236" y="356"/>
       <point x="255" y="308"/>
@@ -47,6 +47,8 @@
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

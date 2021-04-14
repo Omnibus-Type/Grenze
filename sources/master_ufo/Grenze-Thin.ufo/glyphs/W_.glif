@@ -6,17 +6,17 @@
   <outline>
     <contour>
       <point x="234" y="-10" type="curve" smooth="yes"/>
-      <point x="239" y="-10"/>
-      <point x="270" y="-5"/>
+      <point x="238" y="-10"/>
+      <point x="257" y="-7"/>
       <point x="270" y="-5" type="curve"/>
       <point x="366" y="388" type="line"/>
       <point x="372" y="388" type="line"/>
       <point x="467" y="-2" type="line"/>
-      <point x="467" y="-2"/>
-      <point x="478" y="-10"/>
+      <point x="472" y="-5"/>
+      <point x="479" y="-10"/>
       <point x="481" y="-10" type="curve" smooth="yes"/>
-      <point x="486" y="-10"/>
-      <point x="517" y="-5"/>
+      <point x="485" y="-10"/>
+      <point x="504" y="-7"/>
       <point x="517" y="-5" type="curve"/>
       <point x="565" y="185"/>
       <point x="613" y="376"/>
@@ -30,8 +30,8 @@
       <point x="542" y="201"/>
       <point x="497" y="21" type="curve"/>
       <point x="489" y="21" type="line"/>
-      <point x="489" y="21"/>
-      <point x="449" y="186"/>
+      <point x="472" y="92"/>
+      <point x="445" y="201"/>
       <point x="435" y="243" type="curve" smooth="yes"/>
       <point x="355" y="564" type="line"/>
       <point x="425" y="573" type="line"/>
@@ -44,8 +44,8 @@
       <point x="285" y="161"/>
       <point x="250" y="21" type="curve"/>
       <point x="242" y="21" type="line"/>
-      <point x="242" y="21"/>
-      <point x="202" y="188"/>
+      <point x="225" y="93"/>
+      <point x="198" y="203"/>
       <point x="188" y="243" type="curve" smooth="yes"/>
       <point x="108" y="564" type="line"/>
       <point x="163" y="573" type="line"/>
@@ -54,8 +54,14 @@
       <point x="20" y="574" type="line"/>
       <point x="77" y="566" type="line"/>
       <point x="220" y="-2" type="line"/>
-      <point x="220" y="-2"/>
-      <point x="231" y="-10"/>
+      <point x="225" y="-5"/>
+      <point x="232" y="-10"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

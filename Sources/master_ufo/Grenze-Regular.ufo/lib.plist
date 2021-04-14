@@ -91,7 +91,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1303</string>
+    <string>1354</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
     <array>
       <dict>
@@ -101,6 +101,30 @@
         <string>wght</string>
       </dict>
     </array>
+    <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
+    <dict>
+      <key>wght</key>
+      <dict>
+        <key>100</key>
+        <integer>100</integer>
+        <key>200</key>
+        <integer>200</integer>
+        <key>300</key>
+        <integer>300</integer>
+        <key>400</key>
+        <integer>400</integer>
+        <key>500</key>
+        <integer>500</integer>
+        <key>600</key>
+        <integer>600</integer>
+        <key>700</key>
+        <integer>700</integer>
+        <key>800</key>
+        <integer>800</integer>
+        <key>900</key>
+        <integer>900</integer>
+      </dict>
+    </dict>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Variable Font Family Name</key>
@@ -629,6 +653,7 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
+      <string>zero.zero</string>
       <string>zero.lf</string>
       <string>one.lf</string>
       <string>two.lf</string>
@@ -670,7 +695,6 @@
       <string>seven.tosf</string>
       <string>eight.tosf</string>
       <string>nine.tosf</string>
-      <string>zero.zero</string>
       <string>zeroinferior</string>
       <string>oneinferior</string>
       <string>twoinferior</string>
@@ -888,19 +912,19 @@
       <string>strokelongcomb</string>
       <string>slashshortcomb</string>
       <string>slashlongcomb</string>
-      <string>acute</string>
-      <string>breve</string>
-      <string>caron</string>
-      <string>cedilla</string>
-      <string>circumflex</string>
       <string>dieresis</string>
       <string>dotaccent</string>
       <string>grave</string>
+      <string>acute</string>
       <string>hungarumlaut</string>
-      <string>macron</string>
-      <string>ogonek</string>
+      <string>circumflex</string>
+      <string>caron</string>
+      <string>breve</string>
       <string>ring</string>
       <string>tilde</string>
+      <string>macron</string>
+      <string>cedilla</string>
+      <string>ogonek</string>
       <string>cedillacomb.alt</string>
       <string>caron.alt</string>
       <string>dieresiscomb.case</string>
@@ -1582,9 +1606,5 @@
       <key>zerosuperior</key>
       <string>uni2070</string>
     </dict>
-    <key>public.skipExportGlyphs</key>
-    <array>
-      <string>apostrophecomb</string>
-    </array>
   </dict>
 </plist>

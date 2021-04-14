@@ -327,12 +327,10 @@
     <dict>
       <key>GSDontShowVersionAlert</key>
       <integer>1</integer>
+      <key>LWPluginVersion</key>
+      <string>1429</string>
       <key>UFOFormat</key>
       <integer>2</integer>
-      <key>public.skipExportGlyphs</key>
-      <array>
-        <string>apostrophecomb</string>
-      </array>
     </dict>
   </lib>
 </designspace>
