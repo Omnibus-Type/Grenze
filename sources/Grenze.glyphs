@@ -3,7 +3,9 @@
 .formatVersion = 3;
 DisplayStrings = (
 "KoĿevje
-KoL/periodcentered.loclCAT.case evje"
+KoL/periodcentered.loclCAT.case evje
+
+LLL·L parl·lele"
 );
 axes = (
 {
@@ -75191,6 +75193,7 @@ kerningLTR = {
 "@MMK_R_V" = -35;
 "@MMK_R_W" = -35;
 "@MMK_R_Y" = -35;
+periodcentered = -150;
 periodcentered.loclCAT.case = -100;
 };
 "@MMK_L_M" = {
@@ -75264,6 +75267,7 @@ four = -13;
 "@MMK_R_V" = -25;
 "@MMK_R_W" = -25;
 "@MMK_R_Y" = -25;
+periodcentered = -175;
 periodcentered.loclCAT.case = -120;
 };
 "@MMK_L_O" = {

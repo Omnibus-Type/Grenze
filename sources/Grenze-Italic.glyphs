@@ -3,7 +3,8 @@
 .formatVersion = 3;
 DisplayStrings = (
 "KoĿevje
-KoL/periodcentered.loclCAT.case evje"
+KoL/periodcentered.loclCAT.case evje
+LLL·L parl·lele"
 );
 axes = (
 {
@@ -83163,6 +83164,7 @@ comma = -29;
 "@MMK_R_V" = -34;
 "@MMK_R_W" = -34;
 "@MMK_R_Y" = -34;
+periodcentered = -120;
 periodcentered.loclCAT.case = -100;
 };
 "@MMK_L_M" = {
@@ -83265,6 +83267,7 @@ comma = -29;
 "@MMK_R_V" = -30;
 "@MMK_R_W" = -30;
 "@MMK_R_Y" = -30;
+periodcentered = -180;
 periodcentered.loclCAT.case = -140;
 };
 "@MMK_L_M" = {
