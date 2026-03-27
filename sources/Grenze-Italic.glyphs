@@ -2,7 +2,8 @@
 .appVersion = "3516";
 .formatVersion = 3;
 DisplayStrings = (
-"/slashlongcomb.case ØǾ̸øǿ"
+"KoĿevje
+KoL/periodcentered.loclCAT.case evje"
 );
 axes = (
 {
@@ -59067,7 +59068,7 @@ nodes = (
 );
 }
 );
-width = 39;
+width = 99;
 },
 {
 anchors = (
@@ -59089,7 +59090,7 @@ nodes = (
 );
 }
 );
-width = 92;
+width = 142;
 },
 {
 anchors = (
@@ -83162,6 +83163,7 @@ comma = -29;
 "@MMK_R_V" = -34;
 "@MMK_R_W" = -34;
 "@MMK_R_Y" = -34;
+periodcentered.loclCAT.case = -100;
 };
 "@MMK_L_M" = {
 "@MMK_R_A" = -10;
@@ -83263,6 +83265,7 @@ comma = -29;
 "@MMK_R_V" = -30;
 "@MMK_R_W" = -30;
 "@MMK_R_Y" = -30;
+periodcentered.loclCAT.case = -140;
 };
 "@MMK_L_M" = {
 "@MMK_R_A" = -10;

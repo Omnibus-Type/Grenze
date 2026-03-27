@@ -1,6 +1,10 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
+DisplayStrings = (
+"KoĿevje
+KoL/periodcentered.loclCAT.case evje"
+);
 axes = (
 {
 name = Weight;
@@ -51575,7 +51579,7 @@ nodes = (
 );
 }
 );
-width = 39;
+width = 99;
 },
 {
 anchors = (
@@ -51597,7 +51601,7 @@ nodes = (
 );
 }
 );
-width = 92;
+width = 122;
 },
 {
 anchors = (
@@ -75187,6 +75191,7 @@ kerningLTR = {
 "@MMK_R_V" = -35;
 "@MMK_R_W" = -35;
 "@MMK_R_Y" = -35;
+periodcentered.loclCAT.case = -100;
 };
 "@MMK_L_M" = {
 "@MMK_R_A" = -10;
@@ -75259,6 +75264,7 @@ four = -13;
 "@MMK_R_V" = -25;
 "@MMK_R_W" = -25;
 "@MMK_R_Y" = -25;
+periodcentered.loclCAT.case = -120;
 };
 "@MMK_L_O" = {
 "@MMK_R_A" = -17;
